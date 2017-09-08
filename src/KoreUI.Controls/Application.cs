@@ -1,50 +1,68 @@
 ﻿using OpenTK;
 using OpenTK.Graphics;
 using Processing.OpenTk.Core;
+using System;
 using System.Linq;
 
 namespace KoreUI.Controls
 {    
-    public class Application : Canvas
-    {        
+    public class Application : UiControl, IDisposable
+    {
+        public Canvas Canvas { get; }
 
-        public Application() : base(640, 400)
+        public Application()
         {
-            Draw += _ => Root.Draw(this);            
+            Canvas = new Canvas(800, 640, canvas =>
+            {
+                canvas.PostOnLoad += this.PostOnLoad;
+                canvas.PostOnResize += this.PostOnResize;
+                canvas.PostOnUpdateFrame += this.PostOnUpdateFrame;
+            });
+
+            Canvas.Draw += _ => Draw(Canvas);
         }
 
-        public UiControl Root = new UiControl(c => c.Name = "Root");
+        public Application(Action<Application> setup) : this() => setup(this);
 
         public UiControl FocusedControl { get; set; }
 
-        protected override void PostOnLoad()
+        protected void PostOnLoad()
         {
-            Root.Coordinates.SizeOffsetX = Width;
-            Root.Coordinates.SizeOffsetY = Height;
+            Coordinates.SizeOffsetX = Canvas.Width;
+            Coordinates.SizeOffsetY = Canvas.Height;
 
-            StrokeWeight = 0;
-            Stroke = Color4.Transparent;
-            Fill = Color4.White;
+            Canvas.StrokeWeight = 0;
+            Canvas.Stroke = Color4.Transparent;
+            Canvas.Fill = Color4.White;
         }
 
-        protected override void PostOnResize()
+        protected void PostOnResize()
         {
-            Root.Coordinates.SizeOffsetX = Width;
-            Root.Coordinates.SizeOffsetY = Height;
+            Coordinates.SizeOffsetX = Canvas.Width;
+            Coordinates.SizeOffsetY = Canvas.Height;
         }
 
-        protected override void PostOnUpdateFrame(FrameEventArgs e)
+        protected void PostOnUpdateFrame(FrameEventArgs e)
         {
-            base.PostOnUpdateFrame(e);
-            Root.IsMouseOver = Root.Encloses(MousePosition);
-            foreach (var control in Root.Descendents)
-                control.IsMouseOver = control.Encloses(MousePosition);
+            IsMouseOver = Encloses(Canvas.MousePosition);
+            foreach (var control in Descendents)
+                control.IsMouseOver = control.Encloses(Canvas.MousePosition);
         }
 
-        protected override void OnMousePressed()
+        protected void OnMousePressed()
         {
-            foreach (var clicked in Root.Descendents.Where(d => d.IsMouseOver))
+            foreach (var clicked in Descendents.Where(d => d.IsMouseOver))
                 clicked.MousePressed?.Invoke(clicked, new InputEventArgs());
+        }
+
+        public void Dispose()
+        {
+            this.Canvas.Dispose();
+        }
+
+        public void Show()
+        {
+            Canvas.Run(60f);
         }
     }
 }

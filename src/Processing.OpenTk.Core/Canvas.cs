@@ -124,6 +124,8 @@ namespace Processing.OpenTk.Core
             VSync = VSyncMode.On;
         }
 
+        public Canvas(int sizex, int sizey, Action<Canvas> setup) : this(sizex, sizey) => setup(this);        
+
         protected override void OnLoad(EventArgs e)
         {
             base.OnLoad(e);
@@ -150,26 +152,20 @@ namespace Processing.OpenTk.Core
             
             Setup?.Invoke(this);
 
-            PostOnLoad();
+            PostOnLoad?.Invoke();
         }
 
-        protected virtual void PostOnLoad()
-        {
-
-        }
+        public Action PostOnLoad { get; set; }        
 
         protected override void OnResize(EventArgs e)
         {
             base.OnResize(e);
 
             GL.Viewport(ClientRectangle.X, ClientRectangle.Y, ClientRectangle.Width, ClientRectangle.Height);
-            PostOnResize();
+            PostOnResize?.Invoke();
         }
 
-        protected virtual void PostOnResize()
-        {
-
-        }
+        public Action PostOnResize { get; set; }
 
         protected override void OnUpdateFrame(FrameEventArgs e)
         {
@@ -180,13 +176,10 @@ namespace Processing.OpenTk.Core
             if (Keyboard[Key.Escape])
                 Exit();
 
-            PostOnUpdateFrame(e);
+            PostOnUpdateFrame?.Invoke(e);
         }
 
-        protected virtual void PostOnUpdateFrame(FrameEventArgs e)
-        {
-
-        }
+        public Action<FrameEventArgs> PostOnUpdateFrame { get; set; }
 
         protected override void OnRenderFrame(FrameEventArgs e)
         {
@@ -201,6 +194,8 @@ namespace Processing.OpenTk.Core
 
             PMousePosition = MousePosition;
         }
+
+        public Action<FrameEventArgs> PostOnRenderFrame { get; set; }
 
         #region Renderer 2d        
 
