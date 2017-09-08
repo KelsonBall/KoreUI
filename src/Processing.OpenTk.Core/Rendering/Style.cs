@@ -6,7 +6,7 @@ namespace Processing.OpenTk.Core.Rendering
     {
         private static Font defaultFont = null;
 
-        public Font Font { get; set; }
+        public Font Font { get; set; }        
         public Color4 Fill { get; set; } = Color4.White;
         public Color4 Stroke { get; set; } = Color4.Black;
         public float StrokeWeight { get; set; } = 1;
@@ -22,7 +22,7 @@ namespace Processing.OpenTk.Core.Rendering
         {
             return new Style
             {
-                Font = Font,
+                Font = Font,                
                 Fill = Fill,
                 Stroke = Stroke,
                 StrokeWeight = StrokeWeight
