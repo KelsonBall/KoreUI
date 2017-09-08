@@ -250,7 +250,7 @@ namespace KoreUI.Controls
 
         public UiControl Parent { get; private set; }
 
-        private void DrawChildren(Application canvas)
+        protected void DrawChildren(Application canvas)
         {
             foreach (var child in this)
                 canvas.WithBoundry((child.LocalX, child.LocalY), (child.ActualWidth, child.ActualHeight), () => child.Draw(canvas));
@@ -258,7 +258,7 @@ namespace KoreUI.Controls
 
         private readonly List<UiControl> _children = new List<UiControl>();
 
-        public UiControl Add(UiControl control)
+        public virtual UiControl Add(UiControl control)
         {
             if (control.Parent != null)
                 control.Parent.Remove(control);
@@ -268,21 +268,21 @@ namespace KoreUI.Controls
             return this;
         }
 
-        public UiControl Add(IEnumerable<UiControl> controls)
+        public virtual UiControl Add(IEnumerable<UiControl> controls)
         {
             foreach (var control in controls)
                 Add(control);
             return this;
         }
 
-        public UiControl Remove(UiControl control)
+        public virtual UiControl Remove(UiControl control)
         {
             control.Parent = null;
             _children.Remove(control);
             return this;
         }
 
-        public UiControl Remove(IEnumerable<UiControl> controls)
+        public virtual UiControl Remove(IEnumerable<UiControl> controls)
         {
             foreach (var control in controls)
                 Remove(control);
