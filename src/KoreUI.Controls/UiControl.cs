@@ -4,25 +4,79 @@ using System.Collections;
 using OpenTK.Graphics;
 using Processing.OpenTk.Core.Math;
 using Processing.OpenTk.Core;
+using System.ComponentModel;
+using System.Runtime.CompilerServices;
 
 namespace KoreUI.Controls
 {
     public class UiControl : IEnumerable<UiControl>
     {
+        #region Backing Dictionary
+
+        private readonly Dictionary<string, object> _attributes = new Dictionary<string, object>();
+        protected static readonly Dictionary<Type, Dictionary<string, Action<object, object>>> _setters = new Dictionary<Type, Dictionary<string, Action<object, object>>>();
+
+        public IEnumerable<KeyValuePair<string, object>> Attributes => _attributes;
+
+        public object this[string attribute]
+        {
+            get
+            {
+                if (_attributes.ContainsKey(attribute))                
+                    return _attributes[attribute];
+                return null;
+            }
+            set
+            {
+                _attributes[attribute] = value;
+            }
+        }
+
+        protected void Set<T>(T value, [CallerMemberName] string name = null)
+        {
+            if (name != null)
+                _attributes[name] = value;
+            var type = GetType();
+            if (_setters.ContainsKey(type))
+                if (_setters[type].ContainsKey(name))
+                    _setters[type][name](this, value);
+        }
+        
+        protected static void RegisterSetter<TControl, TValue>(string name, Action<TControl, TValue> setter)
+        {
+            var type = typeof(TControl);
+            if (!_setters.ContainsKey(type))
+                _setters[type] = new Dictionary<string, Action<object, object>>();
+            _setters[type][name] = (o,v) => setter((TControl)o, (TValue)v);            
+        }
+
+        protected T Get<T>([CallerMemberName] string name = null) => (T)this[name];
+
+        #endregion
+
         #region Ctor
-        public UiControl() { }
+        public UiControl() : this(c => { }) { }
 
         public UiControl(Action<UiControl> setup)
         {
+            DefaultStyle();
             setup(this);
+        }
+
+        protected virtual void DefaultStyle()
+        {
+            Name = GetType().Name;
+            Background = Color4.White;
         }
         #endregion
 
         #region Properties
 
-        public string Name { get; set; } 
+        public INotifyPropertyChanged DataContext { get; set; }
 
-        public Color4 Background { get; set; }
+        public string Name { get => Get<string>(); set => Set(value); }
+
+        public Color4 Background { get => Get<Color4>(); set => Set(value); }
 
 
         #endregion
@@ -205,6 +259,16 @@ namespace KoreUI.Controls
         public IEnumerator<UiControl> GetEnumerator() => Children.GetEnumerator();
 
         IEnumerator IEnumerable.GetEnumerator() => Children.GetEnumerator();
+
+        public Application Root
+        {
+            get
+            {
+                UiControl parent = this;
+                while ((parent = parent.Parent) != null);
+                return (Application)parent;
+            }
+        }
 
         public IEnumerable<UiControl> Children
         {

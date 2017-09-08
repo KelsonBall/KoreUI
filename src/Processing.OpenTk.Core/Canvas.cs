@@ -21,7 +21,7 @@ namespace Processing.OpenTk.Core
         private (PVector offset, PVector size) _baseViewport = (PVector.O, PVector.O);
         private Stack<(PVector offset, PVector size)> _boundryStack = new Stack<(PVector, PVector)>();
 
-        public Font Font { get => _styleStack.Peek().Font; set => _styleStack.Peek().Font = value; }
+        public Font Font { get => _styleStack.Peek().Font; set => _styleStack.Peek().Font = value; }        
         public Color4 Fill { get => _styleStack.Peek().Fill; set => _styleStack.Peek().Fill = value; }
         public Color4 Stroke { get => _styleStack.Peek().Stroke; set => _styleStack.Peek().Stroke = value; }
         public float StrokeWeight { get => _styleStack.Peek().StrokeWeight; set => _styleStack.Peek().StrokeWeight = value; }
@@ -279,6 +279,9 @@ namespace Processing.OpenTk.Core
 
         private IEnumerable<CharacterRenderResult> RenderText(string text, PVector position)
         {
+            if (text == null)
+                yield break;
+
             var characters = text.Select(c => (c, Font[c, Fill]))
                                  .Select(t => (letter: t.Item1, texture: t.Item2.texture, yshift: t.Item2.yshift));
 

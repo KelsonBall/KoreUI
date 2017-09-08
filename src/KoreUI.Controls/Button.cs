@@ -7,13 +7,13 @@ namespace KoreUI.Controls
 {
     public class Button : UiControl
     {
-        public Color4 BackgroundHoverColor { get; set; }
+        public Color4 BackgroundHoverColor { get => Get<Color4>(); set => Set(value); }
 
-        public int OutlineThickness { get; set; } = 2;
+        public int OutlineThickness { get => Get<int>(); set => Set(value); }
 
-        public Color4 OutlineColor { get; set; }
+        public Color4 OutlineColor { get => Get<Color4>(); set => Set(value); }
 
-        public Color4 OutlineHoverColor { get; set; }
+        public Color4 OutlineHoverColor { get => Get<Color4>(); set => Set(value); }
 
         public Color4 TextColor { get => _label.TextColor; set => _label.TextColor = value; }
 
@@ -21,17 +21,28 @@ namespace KoreUI.Controls
 
         private Label _label = new Label();
 
-        public Button()
+        public Button() : this(b => { })
         {
-            base.Add(_label);
+                       
+        }
+
+        protected override void DefaultStyle()
+        {
+            OutlineThickness = 2;
             Background = Color4.LightGray;
             BackgroundHoverColor = Color4.LightSkyBlue;
             OutlineColor = Color4.DarkGray;
             OutlineHoverColor = Color4.Gray;
             TextColor = Color4.Black;
+            base.DefaultStyle();
         }
 
-        public Button(Action<Button> setup) : this() => setup(this);        
+        public Button(Action<Button> setup)
+        {
+            base.Add(_label);
+            DefaultStyle();
+            setup(this);
+        }
 
         public override void Draw(Canvas canvas)
         {

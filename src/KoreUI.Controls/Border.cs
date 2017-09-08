@@ -8,7 +8,7 @@ namespace KoreUI.Controls
 {
     public class Border : UiControl
     {
-        public Color4 BorderColor { get; set; }
+        public Color4 BorderColor { get => Get<Color4>(); set => Set(value); }
 
         private UiControl _container = new UiControl(c =>
         {
@@ -16,13 +16,13 @@ namespace KoreUI.Controls
             c.Coordinates.SizeScaleY = 1;
         });
 
-        public int BorderTop { get => _container.Coordinates.PositionOffsetY; set => _container.Coordinates.PositionOffsetY = value; }
+        public int BorderTop { get => Get<int>(); set => Set(value); }        
 
-        public int BorderBottom { get => -_container.Coordinates.SizeOffsetY; set => _container.Coordinates.SizeOffsetY = -BorderTop - value; }
+        public int BorderBottom { get => Get<int>(); set => Set(value); }
 
-        public int BorderLeft { get => _container.Coordinates.PositionOffsetX; set => _container.Coordinates.PositionOffsetX = value; }
+        public int BorderLeft { get => Get<int>(); set => Set(value); }
 
-        public int BorderRight { get => -_container.Coordinates.SizeOffsetX; set => _container.Coordinates.SizeOffsetX = -BorderLeft - value; }
+        public int BorderRight { get => Get<int>(); set => Set(value); }
 
         public new Color4 Background { get => _container.Background; set => _container.Background = value; }
 
@@ -71,14 +71,33 @@ namespace KoreUI.Controls
                         throw new ArgumentException("Invalid number of border parameters");
                 }
             }
+        }        
+
+        static Border()
+        {
+            RegisterSetter<Border, int>(nameof(BorderTop), (b, value) => b._container.Coordinates.PositionOffsetY = value);
+            RegisterSetter<Border, int>(nameof(BorderBottom), (b, value) => b._container.Coordinates.SizeOffsetY = -b.BorderTop - value);
+            RegisterSetter<Border, int>(nameof(BorderLeft), (b, value) => b._container.Coordinates.PositionOffsetX = value);
+            RegisterSetter<Border, int>(nameof(BorderRight), (b, value) => b._container.Coordinates.SizeOffsetX = b._container.Coordinates.SizeOffsetX = -b.BorderLeft - value);
         }
 
-        public Border()
+        public Border() : this(c => { })
+        {            
+        }        
+
+        public Border(Action<Border> setup)
         {
             base.Add(_container);
+            DefaultStyle();
+            setup(this);
         }
-        
-        public Border(Action<Border> setup) : this() => setup(this);        
+
+        protected override void DefaultStyle()
+        {
+            BorderColor = Color4.Black;
+            BorderThickness = "1";
+            base.DefaultStyle();
+        }
 
         public override void Draw(Canvas canvas)
         {
