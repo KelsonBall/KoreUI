@@ -221,3 +221,5 @@ src/ImageSharp/ImageSharp/tests/
 src/ImageSharp/ImageSharp/theme/
 
 src/ImageSharp/ImageSharp/samples/
+
+\.vscode/
