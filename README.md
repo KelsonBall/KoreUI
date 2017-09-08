@@ -80,7 +80,7 @@ new Application()
     // a square with 1/4th the height and width of the screen, aligned to the top right
     new UiControl(control => {
         control.Size = ((0, 0.25), (0, 0.25));
-        control.Position = ((0, 0.75), (0, 0.75));
+        control.Position = ((0, 0.75), (0, 0));
         control.Background = Color4.Green;
     }),
 
