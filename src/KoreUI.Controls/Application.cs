@@ -1,5 +1,6 @@
 ﻿using OpenTK;
 using OpenTK.Graphics;
+using OpenTK.Input;
 using Processing.OpenTk.Core;
 using System;
 using System.Linq;
@@ -17,6 +18,7 @@ namespace KoreUI.Controls
                 canvas.PostOnLoad += this.PostOnLoad;
                 canvas.PostOnResize += this.PostOnResize;
                 canvas.PostOnUpdateFrame += this.PostOnUpdateFrame;
+                canvas.MouseDown += this.OnMousePressed;
             });
 
             Canvas.Draw += _ => Draw(Canvas);
@@ -49,7 +51,7 @@ namespace KoreUI.Controls
                 control.IsMouseOver = control.Encloses(Canvas.MousePosition);
         }
 
-        protected void OnMousePressed()
+        private void OnMousePressed(object sender, MouseButtonEventArgs mouseEvent)
         {
             foreach (var clicked in Descendents.Where(d => d.IsMouseOver))
                 clicked.MousePressed?.Invoke(clicked, new InputEventArgs());

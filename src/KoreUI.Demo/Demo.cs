@@ -8,7 +8,7 @@ namespace KoreUI.Demo
     {
         static void Main(string[] args)
         {
-            using (Application app = new Application(application =>
+            new Application(application =>
             {
                 application.Background = Color4.CornflowerBlue;
             })
@@ -24,7 +24,7 @@ namespace KoreUI.Demo
                     new Button(button =>
                     {
                         button.Position = ((10, 0), (0, 0.3));
-                        button.Size = ((-10, 0.5), (32, 0));                       
+                        button.Size = ((-10, 0.5), (32, 0));
                         button.Text = "Click Me";
                         button.Name = "Button";
                         button.MousePressed += Button1Click;
@@ -35,7 +35,7 @@ namespace KoreUI.Demo
                         border.Size = ((-20, 0.5), (-20, 1));
                         border.BorderThickness = "2,4,8,16";
                         border.BorderColor = Color4.Black;
-                        border.Background = Color4.Yellow;
+                        border.Background = Color4.Beige;
                     })
                     {
                         new Label(label =>
@@ -47,10 +47,7 @@ namespace KoreUI.Demo
                         })
                     }
                 }
-            })
-            {
-                app.Show();
-            }
+            }.Show();
         }
 
         private static void Button1Click(UiControl arg1, InputEventArgs arg2)
