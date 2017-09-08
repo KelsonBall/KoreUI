@@ -1,0 +1,2361 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<doc>
+  <description>
+    <icon  title="Copy to use 500px"></icon>    fa-500px    <code>0xf26e</code>
+  </description>
+  <description>
+    <icon  title="Copy to use address-book"></icon>    fa-address-book    <code>0xf2b9</code>
+  </description>
+  <description>
+    <icon  title="Copy to use address-book-o"></icon>    fa-address-book-o    <code>0xf2ba</code>
+  </description>
+  <description>
+    <icon  title="Copy to use address-card"></icon>    fa-address-card    <code>0xf2bb</code>
+  </description>
+  <description>
+    <icon  title="Copy to use address-card-o"></icon>    fa-address-card-o    <code>0xf2bc</code>
+  </description>
+  <description>
+    <icon  title="Copy to use adjust"></icon>    fa-adjust    <code>0xf042</code>
+  </description>
+  <description>
+    <icon  title="Copy to use adn"></icon>    fa-adn    <code>0xf170</code>
+  </description>
+  <description>
+    <icon  title="Copy to use align-center"></icon>    fa-align-center    <code>0xf037</code>
+  </description>
+  <description>
+    <icon  title="Copy to use align-justify"></icon>    fa-align-justify    <code>0xf039</code>
+  </description>
+  <description>
+    <icon  title="Copy to use align-left"></icon>    fa-align-left    <code>0xf036</code>
+  </description>
+  <description>
+    <icon  title="Copy to use align-right"></icon>    fa-align-right    <code>0xf038</code>
+  </description>
+  <description>
+    <icon  title="Copy to use amazon"></icon>    fa-amazon    <code>0xf270</code>
+  </description>
+  <description>
+    <icon  title="Copy to use ambulance"></icon>    fa-ambulance    <code>0xf0f9</code>
+  </description>
+  <description>
+    <icon  title="Copy to use american-sign-language-interpreting"></icon>    fa-american-sign-language-interpreting    <code>0xf2a3</code>
+  </description>
+  <description>
+    <icon  title="Copy to use anchor"></icon>    fa-anchor    <code>0xf13d</code>
+  </description>
+  <description>
+    <icon  title="Copy to use android"></icon>    fa-android    <code>0xf17b</code>
+  </description>
+  <description>
+    <icon  title="Copy to use angellist"></icon>    fa-angellist    <code>0xf209</code>
+  </description>
+  <description>
+    <icon  title="Copy to use angle-double-down"></icon>    fa-angle-double-down    <code>0xf103</code>
+  </description>
+  <description>
+    <icon  title="Copy to use angle-double-left"></icon>    fa-angle-double-left    <code>0xf100</code>
+  </description>
+  <description>
+    <icon  title="Copy to use angle-double-right"></icon>    fa-angle-double-right    <code>0xf101</code>
+  </description>
+  <description>
+    <icon  title="Copy to use angle-double-up"></icon>    fa-angle-double-up    <code>0xf102</code>
+  </description>
+  <description>
+    <icon  title="Copy to use angle-down"></icon>    fa-angle-down    <code>0xf107</code>
+  </description>
+  <description>
+    <icon  title="Copy to use angle-left"></icon>    fa-angle-left    <code>0xf104</code>
+  </description>
+  <description>
+    <icon  title="Copy to use angle-right"></icon>    fa-angle-right    <code>0xf105</code>
+  </description>
+  <description>
+    <icon  title="Copy to use angle-up"></icon>    fa-angle-up    <code>0xf106</code>
+  </description>
+  <description>
+    <icon  title="Copy to use apple"></icon>    fa-apple    <code>0xf179</code>
+  </description>
+  <description>
+    <icon  title="Copy to use archive"></icon>    fa-archive    <code>0xf187</code>
+  </description>
+  <description>
+    <icon  title="Copy to use area-chart"></icon>    fa-area-chart    <code>0xf1fe</code>
+  </description>
+  <description>
+    <icon  title="Copy to use arrow-circle-down"></icon>    fa-arrow-circle-down    <code>0xf0ab</code>
+  </description>
+  <description>
+    <icon  title="Copy to use arrow-circle-left"></icon>    fa-arrow-circle-left    <code>0xf0a8</code>
+  </description>
+  <description>
+    <icon  title="Copy to use arrow-circle-o-down"></icon>    fa-arrow-circle-o-down    <code>0xf01a</code>
+  </description>
+  <description>
+    <icon  title="Copy to use arrow-circle-o-left"></icon>    fa-arrow-circle-o-left    <code>0xf190</code>
+  </description>
+  <description>
+    <icon  title="Copy to use arrow-circle-o-right"></icon>    fa-arrow-circle-o-right    <code>0xf18e</code>
+  </description>
+  <description>
+    <icon  title="Copy to use arrow-circle-o-up"></icon>    fa-arrow-circle-o-up    <code>0xf01b</code>
+  </description>
+  <description>
+    <icon  title="Copy to use arrow-circle-right"></icon>    fa-arrow-circle-right    <code>0xf0a9</code>
+  </description>
+  <description>
+    <icon  title="Copy to use arrow-circle-up"></icon>    fa-arrow-circle-up    <code>0xf0aa</code>
+  </description>
+  <description>
+    <icon  title="Copy to use arrow-down"></icon>    fa-arrow-down    <code>0xf063</code>
+  </description>
+  <description>
+    <icon  title="Copy to use arrow-left"></icon>    fa-arrow-left    <code>0xf060</code>
+  </description>
+  <description>
+    <icon  title="Copy to use arrow-right"></icon>    fa-arrow-right    <code>0xf061</code>
+  </description>
+  <description>
+    <icon  title="Copy to use arrow-up"></icon>    fa-arrow-up    <code>0xf062</code>
+  </description>
+  <description>
+    <icon  title="Copy to use arrows"></icon>    fa-arrows    <code>0xf047</code>
+  </description>
+  <description>
+    <icon  title="Copy to use arrows-alt"></icon>    fa-arrows-alt    <code>0xf0b2</code>
+  </description>
+  <description>
+    <icon  title="Copy to use arrows-h"></icon>    fa-arrows-h    <code>0xf07e</code>
+  </description>
+  <description>
+    <icon  title="Copy to use arrows-v"></icon>    fa-arrows-v    <code>0xf07d</code>
+  </description>
+  <description>
+    <icon  title="Copy to use asl-interpreting"></icon>    fa-asl-interpreting    <span class="text-muted">(alias)</span>    <code>0xf2a3</code>
+  </description>
+  <description>
+    <icon  title="Copy to use assistive-listening-systems"></icon>    fa-assistive-listening-systems    <code>0xf2a2</code>
+  </description>
+  <description>
+    <icon  title="Copy to use asterisk"></icon>    fa-asterisk    <code>0xf069</code>
+  </description>
+  <description>
+    <icon  title="Copy to use at"></icon>    fa-at    <code>0xf1fa</code>
+  </description>
+  <description>
+    <icon  title="Copy to use audio-description"></icon>    fa-audio-description    <code>0xf29e</code>
+  </description>
+  <description>
+    <icon  title="Copy to use automobile"></icon>    fa-automobile    <span class="text-muted">(alias)</span>    <code>0xf1b9</code>
+  </description>
+  <description>
+    <icon  title="Copy to use backward"></icon>    fa-backward    <code>0xf04a</code>
+  </description>
+  <description>
+    <icon  title="Copy to use balance-scale"></icon>    fa-balance-scale    <code>0xf24e</code>
+  </description>
+  <description>
+    <icon  title="Copy to use ban"></icon>    fa-ban    <code>0xf05e</code>
+  </description>
+  <description>
+    <icon  title="Copy to use bandcamp"></icon>    fa-bandcamp    <code>0xf2d5</code>
+  </description>
+  <description>
+    <icon  title="Copy to use bank"></icon>    fa-bank    <span class="text-muted">(alias)</span>    <code>0xf19c</code>
+  </description>
+  <description>
+    <icon  title="Copy to use bar-chart"></icon>    fa-bar-chart    <code>0xf080</code>
+  </description>
+  <description>
+    <icon  title="Copy to use bar-chart-o"></icon>    fa-bar-chart-o    <span class="text-muted">(alias)</span>    <code>0xf080</code>
+  </description>
+  <description>
+    <icon  title="Copy to use barcode"></icon>    fa-barcode    <code>0xf02a</code>
+  </description>
+  <description>
+    <icon  title="Copy to use bars"></icon>    fa-bars    <code>0xf0c9</code>
+  </description>
+  <description>
+    <icon  title="Copy to use bath"></icon>    fa-bath    <code>0xf2cd</code>
+  </description>
+  <description>
+    <icon  title="Copy to use bathtub"></icon>    fa-bathtub    <span class="text-muted">(alias)</span>    <code>0xf2cd</code>
+  </description>
+  <description>
+    <icon  title="Copy to use battery"></icon>    fa-battery    <span class="text-muted">(alias)</span>    <code>0xf240</code>
+  </description>
+  <description>
+    <icon  title="Copy to use battery-0"></icon>    fa-battery-0    <span class="text-muted">(alias)</span>    <code>0xf244</code>
+  </description>
+  <description>
+    <icon  title="Copy to use battery-1"></icon>    fa-battery-1    <span class="text-muted">(alias)</span>    <code>0xf243</code>
+  </description>
+  <description>
+    <icon  title="Copy to use battery-2"></icon>    fa-battery-2    <span class="text-muted">(alias)</span>    <code>0xf242</code>
+  </description>
+  <description>
+    <icon  title="Copy to use battery-3"></icon>    fa-battery-3    <span class="text-muted">(alias)</span>    <code>0xf241</code>
+  </description>
+  <description>
+    <icon  title="Copy to use battery-4"></icon>    fa-battery-4    <span class="text-muted">(alias)</span>    <code>0xf240</code>
+  </description>
+  <description>
+    <icon  title="Copy to use battery-empty"></icon>    fa-battery-empty    <code>0xf244</code>
+  </description>
+  <description>
+    <icon  title="Copy to use battery-full"></icon>    fa-battery-full    <code>0xf240</code>
+  </description>
+  <description>
+    <icon  title="Copy to use battery-half"></icon>    fa-battery-half    <code>0xf242</code>
+  </description>
+  <description>
+    <icon  title="Copy to use battery-quarter"></icon>    fa-battery-quarter    <code>0xf243</code>
+  </description>
+  <description>
+    <icon  title="Copy to use battery-three-quarters"></icon>    fa-battery-three-quarters    <code>0xf241</code>
+  </description>
+  <description>
+    <icon  title="Copy to use bed"></icon>    fa-bed    <code>0xf236</code>
+  </description>
+  <description>
+    <icon  title="Copy to use beer"></icon>    fa-beer    <code>0xf0fc</code>
+  </description>
+  <description>
+    <icon  title="Copy to use behance"></icon>    fa-behance    <code>0xf1b4</code>
+  </description>
+  <description>
+    <icon  title="Copy to use behance-square"></icon>    fa-behance-square    <code>0xf1b5</code>
+  </description>
+  <description>
+    <icon  title="Copy to use bell"></icon>    fa-bell    <code>0xf0f3</code>
+  </description>
+  <description>
+    <icon  title="Copy to use bell-o"></icon>    fa-bell-o    <code>0xf0a2</code>
+  </description>
+  <description>
+    <icon  title="Copy to use bell-slash"></icon>    fa-bell-slash    <code>0xf1f6</code>
+  </description>
+  <description>
+    <icon  title="Copy to use bell-slash-o"></icon>    fa-bell-slash-o    <code>0xf1f7</code>
+  </description>
+  <description>
+    <icon  title="Copy to use bicycle"></icon>    fa-bicycle    <code>0xf206</code>
+  </description>
+  <description>
+    <icon  title="Copy to use binoculars"></icon>    fa-binoculars    <code>0xf1e5</code>
+  </description>
+  <description>
+    <icon  title="Copy to use birthday-cake"></icon>    fa-birthday-cake    <code>0xf1fd</code>
+  </description>
+  <description>
+    <icon  title="Copy to use bitbucket"></icon>    fa-bitbucket    <code>0xf171</code>
+  </description>
+  <description>
+    <icon  title="Copy to use bitbucket-square"></icon>    fa-bitbucket-square    <code>0xf172</code>
+  </description>
+  <description>
+    <icon  title="Copy to use bitcoin"></icon>    fa-bitcoin    <span class="text-muted">(alias)</span>    <code>0xf15a</code>
+  </description>
+  <description>
+    <icon  title="Copy to use black-tie"></icon>    fa-black-tie    <code>0xf27e</code>
+  </description>
+  <description>
+    <icon  title="Copy to use blind"></icon>    fa-blind    <code>0xf29d</code>
+  </description>
+  <description>
+    <icon  title="Copy to use bluetooth"></icon>    fa-bluetooth    <code>0xf293</code>
+  </description>
+  <description>
+    <icon  title="Copy to use bluetooth-b"></icon>    fa-bluetooth-b    <code>0xf294</code>
+  </description>
+  <description>
+    <icon  title="Copy to use bold"></icon>    fa-bold    <code>0xf032</code>
+  </description>
+  <description>
+    <icon  title="Copy to use bolt"></icon>    fa-bolt    <code>0xf0e7</code>
+  </description>
+  <description>
+    <icon  title="Copy to use bomb"></icon>    fa-bomb    <code>0xf1e2</code>
+  </description>
+  <description>
+    <icon  title="Copy to use book"></icon>    fa-book    <code>0xf02d</code>
+  </description>
+  <description>
+    <icon  title="Copy to use bookmark"></icon>    fa-bookmark    <code>0xf02e</code>
+  </description>
+  <description>
+    <icon  title="Copy to use bookmark-o"></icon>    fa-bookmark-o    <code>0xf097</code>
+  </description>
+  <description>
+    <icon  title="Copy to use braille"></icon>    fa-braille    <code>0xf2a1</code>
+  </description>
+  <description>
+    <icon  title="Copy to use briefcase"></icon>    fa-briefcase    <code>0xf0b1</code>
+  </description>
+  <description>
+    <icon  title="Copy to use btc"></icon>    fa-btc    <code>0xf15a</code>
+  </description>
+  <description>
+    <icon  title="Copy to use bug"></icon>    fa-bug    <code>0xf188</code>
+  </description>
+  <description>
+    <icon  title="Copy to use building"></icon>    fa-building    <code>0xf1ad</code>
+  </description>
+  <description>
+    <icon  title="Copy to use building-o"></icon>    fa-building-o    <code>0xf0f7</code>
+  </description>
+  <description>
+    <icon  title="Copy to use bullhorn"></icon>    fa-bullhorn    <code>0xf0a1</code>
+  </description>
+  <description>
+    <icon  title="Copy to use bullseye"></icon>    fa-bullseye    <code>0xf140</code>
+  </description>
+  <description>
+    <icon  title="Copy to use bus"></icon>    fa-bus    <code>0xf207</code>
+  </description>
+  <description>
+    <icon  title="Copy to use buysellads"></icon>    fa-buysellads    <code>0xf20d</code>
+  </description>
+  <description>
+    <icon  title="Copy to use cab"></icon>    fa-cab    <span class="text-muted">(alias)</span>    <code>0xf1ba</code>
+  </description>
+  <description>
+    <icon  title="Copy to use calculator"></icon>    fa-calculator    <code>0xf1ec</code>
+  </description>
+  <description>
+    <icon  title="Copy to use calendar"></icon>    fa-calendar    <code>0xf073</code>
+  </description>
+  <description>
+    <icon  title="Copy to use calendar-check-o"></icon>    fa-calendar-check-o    <code>0xf274</code>
+  </description>
+  <description>
+    <icon  title="Copy to use calendar-minus-o"></icon>    fa-calendar-minus-o    <code>0xf272</code>
+  </description>
+  <description>
+    <icon  title="Copy to use calendar-o"></icon>    fa-calendar-o    <code>0xf133</code>
+  </description>
+  <description>
+    <icon  title="Copy to use calendar-plus-o"></icon>    fa-calendar-plus-o    <code>0xf271</code>
+  </description>
+  <description>
+    <icon  title="Copy to use calendar-times-o"></icon>    fa-calendar-times-o    <code>0xf273</code>
+  </description>
+  <description>
+    <icon  title="Copy to use camera"></icon>    fa-camera    <code>0xf030</code>
+  </description>
+  <description>
+    <icon  title="Copy to use camera-retro"></icon>    fa-camera-retro    <code>0xf083</code>
+  </description>
+  <description>
+    <icon  title="Copy to use car"></icon>    fa-car    <code>0xf1b9</code>
+  </description>
+  <description>
+    <icon  title="Copy to use caret-down"></icon>    fa-caret-down    <code>0xf0d7</code>
+  </description>
+  <description>
+    <icon  title="Copy to use caret-left"></icon>    fa-caret-left    <code>0xf0d9</code>
+  </description>
+  <description>
+    <icon  title="Copy to use caret-right"></icon>    fa-caret-right    <code>0xf0da</code>
+  </description>
+  <description>
+    <icon  title="Copy to use caret-square-o-down"></icon>    fa-caret-square-o-down    <code>0xf150</code>
+  </description>
+  <description>
+    <icon  title="Copy to use caret-square-o-left"></icon>    fa-caret-square-o-left    <code>0xf191</code>
+  </description>
+  <description>
+    <icon  title="Copy to use caret-square-o-right"></icon>    fa-caret-square-o-right    <code>0xf152</code>
+  </description>
+  <description>
+    <icon  title="Copy to use caret-square-o-up"></icon>    fa-caret-square-o-up    <code>0xf151</code>
+  </description>
+  <description>
+    <icon  title="Copy to use caret-up"></icon>    fa-caret-up    <code>0xf0d8</code>
+  </description>
+  <description>
+    <icon  title="Copy to use cart-arrow-down"></icon>    fa-cart-arrow-down    <code>0xf218</code>
+  </description>
+  <description>
+    <icon  title="Copy to use cart-plus"></icon>    fa-cart-plus    <code>0xf217</code>
+  </description>
+  <description>
+    <icon  title="Copy to use cc"></icon>    fa-cc    <code>0xf20a</code>
+  </description>
+  <description>
+    <icon  title="Copy to use cc-amex"></icon>    fa-cc-amex    <code>0xf1f3</code>
+  </description>
+  <description>
+    <icon  title="Copy to use cc-diners-club"></icon>    fa-cc-diners-club    <code>0xf24c</code>
+  </description>
+  <description>
+    <icon  title="Copy to use cc-discover"></icon>    fa-cc-discover    <code>0xf1f2</code>
+  </description>
+  <description>
+    <icon  title="Copy to use cc-jcb"></icon>    fa-cc-jcb    <code>0xf24b</code>
+  </description>
+  <description>
+    <icon  title="Copy to use cc-mastercard"></icon>    fa-cc-mastercard    <code>0xf1f1</code>
+  </description>
+  <description>
+    <icon  title="Copy to use cc-paypal"></icon>    fa-cc-paypal    <code>0xf1f4</code>
+  </description>
+  <description>
+    <icon  title="Copy to use cc-stripe"></icon>    fa-cc-stripe    <code>0xf1f5</code>
+  </description>
+  <description>
+    <icon  title="Copy to use cc-visa"></icon>    fa-cc-visa    <code>0xf1f0</code>
+  </description>
+  <description>
+    <icon  title="Copy to use certificate"></icon>    fa-certificate    <code>0xf0a3</code>
+  </description>
+  <description>
+    <icon  title="Copy to use chain"></icon>    fa-chain    <span class="text-muted">(alias)</span>    <code>0xf0c1</code>
+  </description>
+  <description>
+    <icon  title="Copy to use chain-broken"></icon>    fa-chain-broken    <code>0xf127</code>
+  </description>
+  <description>
+    <icon  title="Copy to use check"></icon>    fa-check    <code>0xf00c</code>
+  </description>
+  <description>
+    <icon  title="Copy to use check-circle"></icon>    fa-check-circle    <code>0xf058</code>
+  </description>
+  <description>
+    <icon  title="Copy to use check-circle-o"></icon>    fa-check-circle-o    <code>0xf05d</code>
+  </description>
+  <description>
+    <icon  title="Copy to use check-square"></icon>    fa-check-square    <code>0xf14a</code>
+  </description>
+  <description>
+    <icon  title="Copy to use check-square-o"></icon>    fa-check-square-o    <code>0xf046</code>
+  </description>
+  <description>
+    <icon  title="Copy to use chevron-circle-down"></icon>    fa-chevron-circle-down    <code>0xf13a</code>
+  </description>
+  <description>
+    <icon  title="Copy to use chevron-circle-left"></icon>    fa-chevron-circle-left    <code>0xf137</code>
+  </description>
+  <description>
+    <icon  title="Copy to use chevron-circle-right"></icon>    fa-chevron-circle-right    <code>0xf138</code>
+  </description>
+  <description>
+    <icon  title="Copy to use chevron-circle-up"></icon>    fa-chevron-circle-up    <code>0xf139</code>
+  </description>
+  <description>
+    <icon  title="Copy to use chevron-down"></icon>    fa-chevron-down    <code>0xf078</code>
+  </description>
+  <description>
+    <icon  title="Copy to use chevron-left"></icon>    fa-chevron-left    <code>0xf053</code>
+  </description>
+  <description>
+    <icon  title="Copy to use chevron-right"></icon>    fa-chevron-right    <code>0xf054</code>
+  </description>
+  <description>
+    <icon  title="Copy to use chevron-up"></icon>    fa-chevron-up    <code>0xf077</code>
+  </description>
+  <description>
+    <icon  title="Copy to use child"></icon>    fa-child    <code>0xf1ae</code>
+  </description>
+  <description>
+    <icon  title="Copy to use chrome"></icon>    fa-chrome    <code>0xf268</code>
+  </description>
+  <description>
+    <icon  title="Copy to use circle"></icon>    fa-circle    <code>0xf111</code>
+  </description>
+  <description>
+    <icon  title="Copy to use circle-o"></icon>    fa-circle-o    <code>0xf10c</code>
+  </description>
+  <description>
+    <icon  title="Copy to use circle-o-notch"></icon>    fa-circle-o-notch    <code>0xf1ce</code>
+  </description>
+  <description>
+    <icon  title="Copy to use circle-thin"></icon>    fa-circle-thin    <code>0xf1db</code>
+  </description>
+  <description>
+    <icon  title="Copy to use clipboard"></icon>    fa-clipboard    <code>0xf0ea</code>
+  </description>
+  <description>
+    <icon  title="Copy to use clock-o"></icon>    fa-clock-o    <code>0xf017</code>
+  </description>
+  <description>
+    <icon  title="Copy to use clone"></icon>    fa-clone    <code>0xf24d</code>
+  </description>
+  <description>
+    <icon  title="Copy to use close"></icon>    fa-close    <span class="text-muted">(alias)</span>    <code>0xf00d</code>
+  </description>
+  <description>
+    <icon  title="Copy to use cloud"></icon>    fa-cloud    <code>0xf0c2</code>
+  </description>
+  <description>
+    <icon  title="Copy to use cloud-download"></icon>    fa-cloud-download    <code>0xf0ed</code>
+  </description>
+  <description>
+    <icon  title="Copy to use cloud-upload"></icon>    fa-cloud-upload    <code>0xf0ee</code>
+  </description>
+  <description>
+    <icon  title="Copy to use cny"></icon>    fa-cny    <span class="text-muted">(alias)</span>    <code>0xf157</code>
+  </description>
+  <description>
+    <icon  title="Copy to use code"></icon>    fa-code    <code>0xf121</code>
+  </description>
+  <description>
+    <icon  title="Copy to use code-fork"></icon>    fa-code-fork    <code>0xf126</code>
+  </description>
+  <description>
+    <icon  title="Copy to use codepen"></icon>    fa-codepen    <code>0xf1cb</code>
+  </description>
+  <description>
+    <icon  title="Copy to use codiepie"></icon>    fa-codiepie    <code>0xf284</code>
+  </description>
+  <description>
+    <icon  title="Copy to use coffee"></icon>    fa-coffee    <code>0xf0f4</code>
+  </description>
+  <description>
+    <icon  title="Copy to use cog"></icon>    fa-cog    <code>0xf013</code>
+  </description>
+  <description>
+    <icon  title="Copy to use cogs"></icon>    fa-cogs    <code>0xf085</code>
+  </description>
+  <description>
+    <icon  title="Copy to use columns"></icon>    fa-columns    <code>0xf0db</code>
+  </description>
+  <description>
+    <icon  title="Copy to use comment"></icon>    fa-comment    <code>0xf075</code>
+  </description>
+  <description>
+    <icon  title="Copy to use comment-o"></icon>    fa-comment-o    <code>0xf0e5</code>
+  </description>
+  <description>
+    <icon  title="Copy to use commenting"></icon>    fa-commenting    <code>0xf27a</code>
+  </description>
+  <description>
+    <icon  title="Copy to use commenting-o"></icon>    fa-commenting-o    <code>0xf27b</code>
+  </description>
+  <description>
+    <icon  title="Copy to use comments"></icon>    fa-comments    <code>0xf086</code>
+  </description>
+  <description>
+    <icon  title="Copy to use comments-o"></icon>    fa-comments-o    <code>0xf0e6</code>
+  </description>
+  <description>
+    <icon  title="Copy to use compass"></icon>    fa-compass    <code>0xf14e</code>
+  </description>
+  <description>
+    <icon  title="Copy to use compress"></icon>    fa-compress    <code>0xf066</code>
+  </description>
+  <description>
+    <icon  title="Copy to use connectdevelop"></icon>    fa-connectdevelop    <code>0xf20e</code>
+  </description>
+  <description>
+    <icon  title="Copy to use contao"></icon>    fa-contao    <code>0xf26d</code>
+  </description>
+  <description>
+    <icon  title="Copy to use copy"></icon>    fa-copy    <span class="text-muted">(alias)</span>    <code>0xf0c5</code>
+  </description>
+  <description>
+    <icon  title="Copy to use copyright"></icon>    fa-copyright    <code>0xf1f9</code>
+  </description>
+  <description>
+    <icon  title="Copy to use creative-commons"></icon>    fa-creative-commons    <code>0xf25e</code>
+  </description>
+  <description>
+    <icon  title="Copy to use credit-card"></icon>    fa-credit-card    <code>0xf09d</code>
+  </description>
+  <description>
+    <icon  title="Copy to use credit-card-alt"></icon>    fa-credit-card-alt    <code>0xf283</code>
+  </description>
+  <description>
+    <icon  title="Copy to use crop"></icon>    fa-crop    <code>0xf125</code>
+  </description>
+  <description>
+    <icon  title="Copy to use crosshairs"></icon>    fa-crosshairs    <code>0xf05b</code>
+  </description>
+  <description>
+    <icon  title="Copy to use css3"></icon>    fa-css3    <code>0xf13c</code>
+  </description>
+  <description>
+    <icon  title="Copy to use cube"></icon>    fa-cube    <code>0xf1b2</code>
+  </description>
+  <description>
+    <icon  title="Copy to use cubes"></icon>    fa-cubes    <code>0xf1b3</code>
+  </description>
+  <description>
+    <icon  title="Copy to use cut"></icon>    fa-cut    <span class="text-muted">(alias)</span>    <code>0xf0c4</code>
+  </description>
+  <description>
+    <icon  title="Copy to use cutlery"></icon>    fa-cutlery    <code>0xf0f5</code>
+  </description>
+  <description>
+    <icon  title="Copy to use dashboard"></icon>    fa-dashboard    <span class="text-muted">(alias)</span>    <code>0xf0e4</code>
+  </description>
+  <description>
+    <icon  title="Copy to use dashcube"></icon>    fa-dashcube    <code>0xf210</code>
+  </description>
+  <description>
+    <icon  title="Copy to use database"></icon>    fa-database    <code>0xf1c0</code>
+  </description>
+  <description>
+    <icon  title="Copy to use deaf"></icon>    fa-deaf    <code>0xf2a4</code>
+  </description>
+  <description>
+    <icon  title="Copy to use deafness"></icon>    fa-deafness    <span class="text-muted">(alias)</span>    <code>0xf2a4</code>
+  </description>
+  <description>
+    <icon  title="Copy to use dedent"></icon>    fa-dedent    <span class="text-muted">(alias)</span>    <code>0xf03b</code>
+  </description>
+  <description>
+    <icon  title="Copy to use delicious"></icon>    fa-delicious    <code>0xf1a5</code>
+  </description>
+  <description>
+    <icon  title="Copy to use desktop"></icon>    fa-desktop    <code>0xf108</code>
+  </description>
+  <description>
+    <icon  title="Copy to use deviantart"></icon>    fa-deviantart    <code>0xf1bd</code>
+  </description>
+  <description>
+    <icon  title="Copy to use diamond"></icon>    fa-diamond    <code>0xf219</code>
+  </description>
+  <description>
+    <icon  title="Copy to use digg"></icon>    fa-digg    <code>0xf1a6</code>
+  </description>
+  <description>
+    <icon  title="Copy to use dollar"></icon>    fa-dollar    <span class="text-muted">(alias)</span>    <code>0xf155</code>
+  </description>
+  <description>
+    <icon  title="Copy to use dot-circle-o"></icon>    fa-dot-circle-o    <code>0xf192</code>
+  </description>
+  <description>
+    <icon  title="Copy to use download"></icon>    fa-download    <code>0xf019</code>
+  </description>
+  <description>
+    <icon  title="Copy to use dribbble"></icon>    fa-dribbble    <code>0xf17d</code>
+  </description>
+  <description>
+    <icon  title="Copy to use drivers-license"></icon>    fa-drivers-license    <span class="text-muted">(alias)</span>    <code>0xf2c2</code>
+  </description>
+  <description>
+    <icon  title="Copy to use drivers-license-o"></icon>    fa-drivers-license-o    <span class="text-muted">(alias)</span>    <code>0xf2c3</code>
+  </description>
+  <description>
+    <icon  title="Copy to use dropbox"></icon>    fa-dropbox    <code>0xf16b</code>
+  </description>
+  <description>
+    <icon  title="Copy to use drupal"></icon>    fa-drupal    <code>0xf1a9</code>
+  </description>
+  <description>
+    <icon  title="Copy to use edge"></icon>    fa-edge    <code>0xf282</code>
+  </description>
+  <description>
+    <icon  title="Copy to use edit"></icon>    fa-edit    <span class="text-muted">(alias)</span>    <code>0xf044</code>
+  </description>
+  <description>
+    <icon  title="Copy to use eercast"></icon>    fa-eercast    <code>0xf2da</code>
+  </description>
+  <description>
+    <icon  title="Copy to use eject"></icon>    fa-eject    <code>0xf052</code>
+  </description>
+  <description>
+    <icon  title="Copy to use ellipsis-h"></icon>    fa-ellipsis-h    <code>0xf141</code>
+  </description>
+  <description>
+    <icon  title="Copy to use ellipsis-v"></icon>    fa-ellipsis-v    <code>0xf142</code>
+  </description>
+  <description>
+    <icon  title="Copy to use empire"></icon>    fa-empire    <code>0xf1d1</code>
+  </description>
+  <description>
+    <icon  title="Copy to use envelope"></icon>    fa-envelope    <code>0xf0e0</code>
+  </description>
+  <description>
+    <icon  title="Copy to use envelope-o"></icon>    fa-envelope-o    <code>0xf003</code>
+  </description>
+  <description>
+    <icon  title="Copy to use envelope-open"></icon>    fa-envelope-open    <code>0xf2b6</code>
+  </description>
+  <description>
+    <icon  title="Copy to use envelope-open-o"></icon>    fa-envelope-open-o    <code>0xf2b7</code>
+  </description>
+  <description>
+    <icon  title="Copy to use envelope-square"></icon>    fa-envelope-square    <code>0xf199</code>
+  </description>
+  <description>
+    <icon  title="Copy to use envira"></icon>    fa-envira    <code>0xf299</code>
+  </description>
+  <description>
+    <icon  title="Copy to use eraser"></icon>    fa-eraser    <code>0xf12d</code>
+  </description>
+  <description>
+    <icon  title="Copy to use etsy"></icon>    fa-etsy    <code>0xf2d7</code>
+  </description>
+  <description>
+    <icon  title="Copy to use eur"></icon>    fa-eur    <code>0xf153</code>
+  </description>
+  <description>
+    <icon  title="Copy to use euro"></icon>    fa-euro    <span class="text-muted">(alias)</span>    <code>0xf153</code>
+  </description>
+  <description>
+    <icon  title="Copy to use exchange"></icon>    fa-exchange    <code>0xf0ec</code>
+  </description>
+  <description>
+    <icon  title="Copy to use exclamation"></icon>    fa-exclamation    <code>0xf12a</code>
+  </description>
+  <description>
+    <icon  title="Copy to use exclamation-circle"></icon>    fa-exclamation-circle    <code>0xf06a</code>
+  </description>
+  <description>
+    <icon  title="Copy to use exclamation-triangle"></icon>    fa-exclamation-triangle    <code>0xf071</code>
+  </description>
+  <description>
+    <icon  title="Copy to use expand"></icon>    fa-expand    <code>0xf065</code>
+  </description>
+  <description>
+    <icon  title="Copy to use expeditedssl"></icon>    fa-expeditedssl    <code>0xf23e</code>
+  </description>
+  <description>
+    <icon  title="Copy to use external-link"></icon>    fa-external-link    <code>0xf08e</code>
+  </description>
+  <description>
+    <icon  title="Copy to use external-link-square"></icon>    fa-external-link-square    <code>0xf14c</code>
+  </description>
+  <description>
+    <icon  title="Copy to use eye"></icon>    fa-eye    <code>0xf06e</code>
+  </description>
+  <description>
+    <icon  title="Copy to use eye-slash"></icon>    fa-eye-slash    <code>0xf070</code>
+  </description>
+  <description>
+    <icon  title="Copy to use eyedropper"></icon>    fa-eyedropper    <code>0xf1fb</code>
+  </description>
+  <description>
+    <icon  title="Copy to use fa"></icon>    fa-fa    <span class="text-muted">(alias)</span>    <code>0xf2b4</code>
+  </description>
+  <description>
+    <icon  title="Copy to use facebook"></icon>    fa-facebook    <code>0xf09a</code>
+  </description>
+  <description>
+    <icon  title="Copy to use facebook-f"></icon>    fa-facebook-f    <span class="text-muted">(alias)</span>    <code>0xf09a</code>
+  </description>
+  <description>
+    <icon  title="Copy to use facebook-official"></icon>    fa-facebook-official    <code>0xf230</code>
+  </description>
+  <description>
+    <icon  title="Copy to use facebook-square"></icon>    fa-facebook-square    <code>0xf082</code>
+  </description>
+  <description>
+    <icon  title="Copy to use fast-backward"></icon>    fa-fast-backward    <code>0xf049</code>
+  </description>
+  <description>
+    <icon  title="Copy to use fast-forward"></icon>    fa-fast-forward    <code>0xf050</code>
+  </description>
+  <description>
+    <icon  title="Copy to use fax"></icon>    fa-fax    <code>0xf1ac</code>
+  </description>
+  <description>
+    <icon  title="Copy to use feed"></icon>    fa-feed    <span class="text-muted">(alias)</span>    <code>0xf09e</code>
+  </description>
+  <description>
+    <icon  title="Copy to use female"></icon>    fa-female    <code>0xf182</code>
+  </description>
+  <description>
+    <icon  title="Copy to use fighter-jet"></icon>    fa-fighter-jet    <code>0xf0fb</code>
+  </description>
+  <description>
+    <icon  title="Copy to use file"></icon>    fa-file    <code>0xf15b</code>
+  </description>
+  <description>
+    <icon  title="Copy to use file-archive-o"></icon>    fa-file-archive-o    <code>0xf1c6</code>
+  </description>
+  <description>
+    <icon  title="Copy to use file-audio-o"></icon>    fa-file-audio-o    <code>0xf1c7</code>
+  </description>
+  <description>
+    <icon  title="Copy to use file-code-o"></icon>    fa-file-code-o    <code>0xf1c9</code>
+  </description>
+  <description>
+    <icon  title="Copy to use file-excel-o"></icon>    fa-file-excel-o    <code>0xf1c3</code>
+  </description>
+  <description>
+    <icon  title="Copy to use file-image-o"></icon>    fa-file-image-o    <code>0xf1c5</code>
+  </description>
+  <description>
+    <icon  title="Copy to use file-movie-o"></icon>    fa-file-movie-o    <span class="text-muted">(alias)</span>    <code>0xf1c8</code>
+  </description>
+  <description>
+    <icon  title="Copy to use file-o"></icon>    fa-file-o    <code>0xf016</code>
+  </description>
+  <description>
+    <icon  title="Copy to use file-pdf-o"></icon>    fa-file-pdf-o    <code>0xf1c1</code>
+  </description>
+  <description>
+    <icon  title="Copy to use file-photo-o"></icon>    fa-file-photo-o    <span class="text-muted">(alias)</span>    <code>0xf1c5</code>
+  </description>
+  <description>
+    <icon  title="Copy to use file-picture-o"></icon>    fa-file-picture-o    <span class="text-muted">(alias)</span>    <code>0xf1c5</code>
+  </description>
+  <description>
+    <icon  title="Copy to use file-powerpoint-o"></icon>    fa-file-powerpoint-o    <code>0xf1c4</code>
+  </description>
+  <description>
+    <icon  title="Copy to use file-sound-o"></icon>    fa-file-sound-o    <span class="text-muted">(alias)</span>    <code>0xf1c7</code>
+  </description>
+  <description>
+    <icon  title="Copy to use file-text"></icon>    fa-file-text    <code>0xf15c</code>
+  </description>
+  <description>
+    <icon  title="Copy to use file-text-o"></icon>    fa-file-text-o    <code>0xf0f6</code>
+  </description>
+  <description>
+    <icon  title="Copy to use file-video-o"></icon>    fa-file-video-o    <code>0xf1c8</code>
+  </description>
+  <description>
+    <icon  title="Copy to use file-word-o"></icon>    fa-file-word-o    <code>0xf1c2</code>
+  </description>
+  <description>
+    <icon  title="Copy to use file-zip-o"></icon>    fa-file-zip-o    <span class="text-muted">(alias)</span>    <code>0xf1c6</code>
+  </description>
+  <description>
+    <icon  title="Copy to use files-o"></icon>    fa-files-o    <code>0xf0c5</code>
+  </description>
+  <description>
+    <icon  title="Copy to use film"></icon>    fa-film    <code>0xf008</code>
+  </description>
+  <description>
+    <icon  title="Copy to use filter"></icon>    fa-filter    <code>0xf0b0</code>
+  </description>
+  <description>
+    <icon  title="Copy to use fire"></icon>    fa-fire    <code>0xf06d</code>
+  </description>
+  <description>
+    <icon  title="Copy to use fire-extinguisher"></icon>    fa-fire-extinguisher    <code>0xf134</code>
+  </description>
+  <description>
+    <icon  title="Copy to use firefox"></icon>    fa-firefox    <code>0xf269</code>
+  </description>
+  <description>
+    <icon  title="Copy to use first-order"></icon>    fa-first-order    <code>0xf2b0</code>
+  </description>
+  <description>
+    <icon  title="Copy to use flag"></icon>    fa-flag    <code>0xf024</code>
+  </description>
+  <description>
+    <icon  title="Copy to use flag-checkered"></icon>    fa-flag-checkered    <code>0xf11e</code>
+  </description>
+  <description>
+    <icon  title="Copy to use flag-o"></icon>    fa-flag-o    <code>0xf11d</code>
+  </description>
+  <description>
+    <icon  title="Copy to use flash"></icon>    fa-flash    <span class="text-muted">(alias)</span>    <code>0xf0e7</code>
+  </description>
+  <description>
+    <icon  title="Copy to use flask"></icon>    fa-flask    <code>0xf0c3</code>
+  </description>
+  <description>
+    <icon  title="Copy to use flickr"></icon>    fa-flickr    <code>0xf16e</code>
+  </description>
+  <description>
+    <icon  title="Copy to use floppy-o"></icon>    fa-floppy-o    <code>0xf0c7</code>
+  </description>
+  <description>
+    <icon  title="Copy to use folder"></icon>    fa-folder    <code>0xf07b</code>
+  </description>
+  <description>
+    <icon  title="Copy to use folder-o"></icon>    fa-folder-o    <code>0xf114</code>
+  </description>
+  <description>
+    <icon  title="Copy to use folder-open"></icon>    fa-folder-open    <code>0xf07c</code>
+  </description>
+  <description>
+    <icon  title="Copy to use folder-open-o"></icon>    fa-folder-open-o    <code>0xf115</code>
+  </description>
+  <description>
+    <icon  title="Copy to use font"></icon>    fa-font    <code>0xf031</code>
+  </description>
+  <description>
+    <icon  title="Copy to use font-awesome"></icon>    fa-font-awesome    <code>0xf2b4</code>
+  </description>
+  <description>
+    <icon  title="Copy to use fonticons"></icon>    fa-fonticons    <code>0xf280</code>
+  </description>
+  <description>
+    <icon  title="Copy to use fort-awesome"></icon>    fa-fort-awesome    <code>0xf286</code>
+  </description>
+  <description>
+    <icon  title="Copy to use forumbee"></icon>    fa-forumbee    <code>0xf211</code>
+  </description>
+  <description>
+    <icon  title="Copy to use forward"></icon>    fa-forward    <code>0xf04e</code>
+  </description>
+  <description>
+    <icon  title="Copy to use foursquare"></icon>    fa-foursquare    <code>0xf180</code>
+  </description>
+  <description>
+    <icon  title="Copy to use free-code-camp"></icon>    fa-free-code-camp    <code>0xf2c5</code>
+  </description>
+  <description>
+    <icon  title="Copy to use frown-o"></icon>    fa-frown-o    <code>0xf119</code>
+  </description>
+  <description>
+    <icon  title="Copy to use futbol-o"></icon>    fa-futbol-o    <code>0xf1e3</code>
+  </description>
+  <description>
+    <icon  title="Copy to use gamepad"></icon>    fa-gamepad    <code>0xf11b</code>
+  </description>
+  <description>
+    <icon  title="Copy to use gavel"></icon>    fa-gavel    <code>0xf0e3</code>
+  </description>
+  <description>
+    <icon  title="Copy to use gbp"></icon>    fa-gbp    <code>0xf154</code>
+  </description>
+  <description>
+    <icon  title="Copy to use ge"></icon>    fa-ge    <span class="text-muted">(alias)</span>    <code>0xf1d1</code>
+  </description>
+  <description>
+    <icon  title="Copy to use gear"></icon>    fa-gear    <span class="text-muted">(alias)</span>    <code>0xf013</code>
+  </description>
+  <description>
+    <icon  title="Copy to use gears"></icon>    fa-gears    <span class="text-muted">(alias)</span>    <code>0xf085</code>
+  </description>
+  <description>
+    <icon  title="Copy to use genderless"></icon>    fa-genderless    <code>0xf22d</code>
+  </description>
+  <description>
+    <icon  title="Copy to use get-pocket"></icon>    fa-get-pocket    <code>0xf265</code>
+  </description>
+  <description>
+    <icon  title="Copy to use gg"></icon>    fa-gg    <code>0xf260</code>
+  </description>
+  <description>
+    <icon  title="Copy to use gg-circle"></icon>    fa-gg-circle    <code>0xf261</code>
+  </description>
+  <description>
+    <icon  title="Copy to use gift"></icon>    fa-gift    <code>0xf06b</code>
+  </description>
+  <description>
+    <icon  title="Copy to use git"></icon>    fa-git    <code>0xf1d3</code>
+  </description>
+  <description>
+    <icon  title="Copy to use git-square"></icon>    fa-git-square    <code>0xf1d2</code>
+  </description>
+  <description>
+    <icon  title="Copy to use github"></icon>    fa-github    <code>0xf09b</code>
+  </description>
+  <description>
+    <icon  title="Copy to use github-alt"></icon>    fa-github-alt    <code>0xf113</code>
+  </description>
+  <description>
+    <icon  title="Copy to use github-square"></icon>    fa-github-square    <code>0xf092</code>
+  </description>
+  <description>
+    <icon  title="Copy to use gitlab"></icon>    fa-gitlab    <code>0xf296</code>
+  </description>
+  <description>
+    <icon  title="Copy to use gittip"></icon>    fa-gittip    <span class="text-muted">(alias)</span>    <code>0xf184</code>
+  </description>
+  <description>
+    <icon  title="Copy to use glass"></icon>    fa-glass    <code>0xf000</code>
+  </description>
+  <description>
+    <icon  title="Copy to use glide"></icon>    fa-glide    <code>0xf2a5</code>
+  </description>
+  <description>
+    <icon  title="Copy to use glide-g"></icon>    fa-glide-g    <code>0xf2a6</code>
+  </description>
+  <description>
+    <icon  title="Copy to use globe"></icon>    fa-globe    <code>0xf0ac</code>
+  </description>
+  <description>
+    <icon  title="Copy to use google"></icon>    fa-google    <code>0xf1a0</code>
+  </description>
+  <description>
+    <icon  title="Copy to use google-plus"></icon>    fa-google-plus    <code>0xf0d5</code>
+  </description>
+  <description>
+    <icon  title="Copy to use google-plus-circle"></icon>    fa-google-plus-circle    <span class="text-muted">(alias)</span>    <code>0xf2b3</code>
+  </description>
+  <description>
+    <icon  title="Copy to use google-plus-official"></icon>    fa-google-plus-official    <code>0xf2b3</code>
+  </description>
+  <description>
+    <icon  title="Copy to use google-plus-square"></icon>    fa-google-plus-square    <code>0xf0d4</code>
+  </description>
+  <description>
+    <icon  title="Copy to use google-wallet"></icon>    fa-google-wallet    <code>0xf1ee</code>
+  </description>
+  <description>
+    <icon  title="Copy to use graduation-cap"></icon>    fa-graduation-cap    <code>0xf19d</code>
+  </description>
+  <description>
+    <icon  title="Copy to use gratipay"></icon>    fa-gratipay    <code>0xf184</code>
+  </description>
+  <description>
+    <icon  title="Copy to use grav"></icon>    fa-grav    <code>0xf2d6</code>
+  </description>
+  <description>
+    <icon  title="Copy to use group"></icon>    fa-group    <span class="text-muted">(alias)</span>    <code>0xf0c0</code>
+  </description>
+  <description>
+    <icon  title="Copy to use h-square"></icon>    fa-h-square    <code>0xf0fd</code>
+  </description>
+  <description>
+    <icon  title="Copy to use hacker-news"></icon>    fa-hacker-news    <code>0xf1d4</code>
+  </description>
+  <description>
+    <icon  title="Copy to use hand-grab-o"></icon>    fa-hand-grab-o    <span class="text-muted">(alias)</span>    <code>0xf255</code>
+  </description>
+  <description>
+    <icon  title="Copy to use hand-lizard-o"></icon>    fa-hand-lizard-o    <code>0xf258</code>
+  </description>
+  <description>
+    <icon  title="Copy to use hand-o-down"></icon>    fa-hand-o-down    <code>0xf0a7</code>
+  </description>
+  <description>
+    <icon  title="Copy to use hand-o-left"></icon>    fa-hand-o-left    <code>0xf0a5</code>
+  </description>
+  <description>
+    <icon  title="Copy to use hand-o-right"></icon>    fa-hand-o-right    <code>0xf0a4</code>
+  </description>
+  <description>
+    <icon  title="Copy to use hand-o-up"></icon>    fa-hand-o-up    <code>0xf0a6</code>
+  </description>
+  <description>
+    <icon  title="Copy to use hand-paper-o"></icon>    fa-hand-paper-o    <code>0xf256</code>
+  </description>
+  <description>
+    <icon  title="Copy to use hand-peace-o"></icon>    fa-hand-peace-o    <code>0xf25b</code>
+  </description>
+  <description>
+    <icon  title="Copy to use hand-pointer-o"></icon>    fa-hand-pointer-o    <code>0xf25a</code>
+  </description>
+  <description>
+    <icon  title="Copy to use hand-rock-o"></icon>    fa-hand-rock-o    <code>0xf255</code>
+  </description>
+  <description>
+    <icon  title="Copy to use hand-scissors-o"></icon>    fa-hand-scissors-o    <code>0xf257</code>
+  </description>
+  <description>
+    <icon  title="Copy to use hand-spock-o"></icon>    fa-hand-spock-o    <code>0xf259</code>
+  </description>
+  <description>
+    <icon  title="Copy to use hand-stop-o"></icon>    fa-hand-stop-o    <span class="text-muted">(alias)</span>    <code>0xf256</code>
+  </description>
+  <description>
+    <icon  title="Copy to use handshake-o"></icon>    fa-handshake-o    <code>0xf2b5</code>
+  </description>
+  <description>
+    <icon  title="Copy to use hard-of-hearing"></icon>    fa-hard-of-hearing    <span class="text-muted">(alias)</span>    <code>0xf2a4</code>
+  </description>
+  <description>
+    <icon  title="Copy to use hashtag"></icon>    fa-hashtag    <code>0xf292</code>
+  </description>
+  <description>
+    <icon  title="Copy to use hdd-o"></icon>    fa-hdd-o    <code>0xf0a0</code>
+  </description>
+  <description>
+    <icon  title="Copy to use header"></icon>    fa-header    <code>0xf1dc</code>
+  </description>
+  <description>
+    <icon  title="Copy to use headphones"></icon>    fa-headphones    <code>0xf025</code>
+  </description>
+  <description>
+    <icon  title="Copy to use heart"></icon>    fa-heart    <code>0xf004</code>
+  </description>
+  <description>
+    <icon  title="Copy to use heart-o"></icon>    fa-heart-o    <code>0xf08a</code>
+  </description>
+  <description>
+    <icon  title="Copy to use heartbeat"></icon>    fa-heartbeat    <code>0xf21e</code>
+  </description>
+  <description>
+    <icon  title="Copy to use history"></icon>    fa-history    <code>0xf1da</code>
+  </description>
+  <description>
+    <icon  title="Copy to use home"></icon>    fa-home    <code>0xf015</code>
+  </description>
+  <description>
+    <icon  title="Copy to use hospital-o"></icon>    fa-hospital-o    <code>0xf0f8</code>
+  </description>
+  <description>
+    <icon  title="Copy to use hotel"></icon>    fa-hotel    <span class="text-muted">(alias)</span>    <code>0xf236</code>
+  </description>
+  <description>
+    <icon  title="Copy to use hourglass"></icon>    fa-hourglass    <code>0xf254</code>
+  </description>
+  <description>
+    <icon  title="Copy to use hourglass-1"></icon>    fa-hourglass-1    <span class="text-muted">(alias)</span>    <code>0xf251</code>
+  </description>
+  <description>
+    <icon  title="Copy to use hourglass-2"></icon>    fa-hourglass-2    <span class="text-muted">(alias)</span>    <code>0xf252</code>
+  </description>
+  <description>
+    <icon  title="Copy to use hourglass-3"></icon>    fa-hourglass-3    <span class="text-muted">(alias)</span>    <code>0xf253</code>
+  </description>
+  <description>
+    <icon  title="Copy to use hourglass-end"></icon>    fa-hourglass-end    <code>0xf253</code>
+  </description>
+  <description>
+    <icon  title="Copy to use hourglass-half"></icon>    fa-hourglass-half    <code>0xf252</code>
+  </description>
+  <description>
+    <icon  title="Copy to use hourglass-o"></icon>    fa-hourglass-o    <code>0xf250</code>
+  </description>
+  <description>
+    <icon  title="Copy to use hourglass-start"></icon>    fa-hourglass-start    <code>0xf251</code>
+  </description>
+  <description>
+    <icon  title="Copy to use houzz"></icon>    fa-houzz    <code>0xf27c</code>
+  </description>
+  <description>
+    <icon  title="Copy to use html5"></icon>    fa-html5    <code>0xf13b</code>
+  </description>
+  <description>
+    <icon  title="Copy to use i-cursor"></icon>    fa-i-cursor    <code>0xf246</code>
+  </description>
+  <description>
+    <icon  title="Copy to use id-badge"></icon>    fa-id-badge    <code>0xf2c1</code>
+  </description>
+  <description>
+    <icon  title="Copy to use id-card"></icon>    fa-id-card    <code>0xf2c2</code>
+  </description>
+  <description>
+    <icon  title="Copy to use id-card-o"></icon>    fa-id-card-o    <code>0xf2c3</code>
+  </description>
+  <description>
+    <icon  title="Copy to use ils"></icon>    fa-ils    <code>0xf20b</code>
+  </description>
+  <description>
+    <icon  title="Copy to use image"></icon>    fa-image    <span class="text-muted">(alias)</span>    <code>0xf03e</code>
+  </description>
+  <description>
+    <icon  title="Copy to use imdb"></icon>    fa-imdb    <code>0xf2d8</code>
+  </description>
+  <description>
+    <icon  title="Copy to use inbox"></icon>    fa-inbox    <code>0xf01c</code>
+  </description>
+  <description>
+    <icon  title="Copy to use indent"></icon>    fa-indent    <code>0xf03c</code>
+  </description>
+  <description>
+    <icon  title="Copy to use industry"></icon>    fa-industry    <code>0xf275</code>
+  </description>
+  <description>
+    <icon  title="Copy to use info"></icon>    fa-info    <code>0xf129</code>
+  </description>
+  <description>
+    <icon  title="Copy to use info-circle"></icon>    fa-info-circle    <code>0xf05a</code>
+  </description>
+  <description>
+    <icon  title="Copy to use inr"></icon>    fa-inr    <code>0xf156</code>
+  </description>
+  <description>
+    <icon  title="Copy to use instagram"></icon>    fa-instagram    <code>0xf16d</code>
+  </description>
+  <description>
+    <icon  title="Copy to use institution"></icon>    fa-institution    <span class="text-muted">(alias)</span>    <code>0xf19c</code>
+  </description>
+  <description>
+    <icon  title="Copy to use internet-explorer"></icon>    fa-internet-explorer    <code>0xf26b</code>
+  </description>
+  <description>
+    <icon  title="Copy to use intersex"></icon>    fa-intersex    <span class="text-muted">(alias)</span>    <code>0xf224</code>
+  </description>
+  <description>
+    <icon  title="Copy to use ioxhost"></icon>    fa-ioxhost    <code>0xf208</code>
+  </description>
+  <description>
+    <icon  title="Copy to use italic"></icon>    fa-italic    <code>0xf033</code>
+  </description>
+  <description>
+    <icon  title="Copy to use joomla"></icon>    fa-joomla    <code>0xf1aa</code>
+  </description>
+  <description>
+    <icon  title="Copy to use jpy"></icon>    fa-jpy    <code>0xf157</code>
+  </description>
+  <description>
+    <icon  title="Copy to use jsfiddle"></icon>    fa-jsfiddle    <code>0xf1cc</code>
+  </description>
+  <description>
+    <icon  title="Copy to use key"></icon>    fa-key    <code>0xf084</code>
+  </description>
+  <description>
+    <icon  title="Copy to use keyboard-o"></icon>    fa-keyboard-o    <code>0xf11c</code>
+  </description>
+  <description>
+    <icon  title="Copy to use krw"></icon>    fa-krw    <code>0xf159</code>
+  </description>
+  <description>
+    <icon  title="Copy to use language"></icon>    fa-language    <code>0xf1ab</code>
+  </description>
+  <description>
+    <icon  title="Copy to use laptop"></icon>    fa-laptop    <code>0xf109</code>
+  </description>
+  <description>
+    <icon  title="Copy to use lastfm"></icon>    fa-lastfm    <code>0xf202</code>
+  </description>
+  <description>
+    <icon  title="Copy to use lastfm-square"></icon>    fa-lastfm-square    <code>0xf203</code>
+  </description>
+  <description>
+    <icon  title="Copy to use leaf"></icon>    fa-leaf    <code>0xf06c</code>
+  </description>
+  <description>
+    <icon  title="Copy to use leanpub"></icon>    fa-leanpub    <code>0xf212</code>
+  </description>
+  <description>
+    <icon  title="Copy to use legal"></icon>    fa-legal    <span class="text-muted">(alias)</span>    <code>0xf0e3</code>
+  </description>
+  <description>
+    <icon  title="Copy to use lemon-o"></icon>    fa-lemon-o    <code>0xf094</code>
+  </description>
+  <description>
+    <icon  title="Copy to use level-down"></icon>    fa-level-down    <code>0xf149</code>
+  </description>
+  <description>
+    <icon  title="Copy to use level-up"></icon>    fa-level-up    <code>0xf148</code>
+  </description>
+  <description>
+    <icon  title="Copy to use life-bouy"></icon>    fa-life-bouy    <span class="text-muted">(alias)</span>    <code>0xf1cd</code>
+  </description>
+  <description>
+    <icon  title="Copy to use life-buoy"></icon>    fa-life-buoy    <span class="text-muted">(alias)</span>    <code>0xf1cd</code>
+  </description>
+  <description>
+    <icon  title="Copy to use life-ring"></icon>    fa-life-ring    <code>0xf1cd</code>
+  </description>
+  <description>
+    <icon  title="Copy to use life-saver"></icon>    fa-life-saver    <span class="text-muted">(alias)</span>    <code>0xf1cd</code>
+  </description>
+  <description>
+    <icon  title="Copy to use lightbulb-o"></icon>    fa-lightbulb-o    <code>0xf0eb</code>
+  </description>
+  <description>
+    <icon  title="Copy to use line-chart"></icon>    fa-line-chart    <code>0xf201</code>
+  </description>
+  <description>
+    <icon  title="Copy to use link"></icon>    fa-link    <code>0xf0c1</code>
+  </description>
+  <description>
+    <icon  title="Copy to use linkedin"></icon>    fa-linkedin    <code>0xf0e1</code>
+  </description>
+  <description>
+    <icon  title="Copy to use linkedin-square"></icon>    fa-linkedin-square    <code>0xf08c</code>
+  </description>
+  <description>
+    <icon  title="Copy to use linode"></icon>    fa-linode    <code>0xf2b8</code>
+  </description>
+  <description>
+    <icon  title="Copy to use linux"></icon>    fa-linux    <code>0xf17c</code>
+  </description>
+  <description>
+    <icon  title="Copy to use list"></icon>    fa-list    <code>0xf03a</code>
+  </description>
+  <description>
+    <icon  title="Copy to use list-alt"></icon>    fa-list-alt    <code>0xf022</code>
+  </description>
+  <description>
+    <icon  title="Copy to use list-ol"></icon>    fa-list-ol    <code>0xf0cb</code>
+  </description>
+  <description>
+    <icon  title="Copy to use list-ul"></icon>    fa-list-ul    <code>0xf0ca</code>
+  </description>
+  <description>
+    <icon  title="Copy to use location-arrow"></icon>    fa-location-arrow    <code>0xf124</code>
+  </description>
+  <description>
+    <icon  title="Copy to use lock"></icon>    fa-lock    <code>0xf023</code>
+  </description>
+  <description>
+    <icon  title="Copy to use long-arrow-down"></icon>    fa-long-arrow-down    <code>0xf175</code>
+  </description>
+  <description>
+    <icon  title="Copy to use long-arrow-left"></icon>    fa-long-arrow-left    <code>0xf177</code>
+  </description>
+  <description>
+    <icon  title="Copy to use long-arrow-right"></icon>    fa-long-arrow-right    <code>0xf178</code>
+  </description>
+  <description>
+    <icon  title="Copy to use long-arrow-up"></icon>    fa-long-arrow-up    <code>0xf176</code>
+  </description>
+  <description>
+    <icon  title="Copy to use low-vision"></icon>    fa-low-vision    <code>0xf2a8</code>
+  </description>
+  <description>
+    <icon  title="Copy to use magic"></icon>    fa-magic    <code>0xf0d0</code>
+  </description>
+  <description>
+    <icon  title="Copy to use magnet"></icon>    fa-magnet    <code>0xf076</code>
+  </description>
+  <description>
+    <icon  title="Copy to use mail-forward"></icon>    fa-mail-forward    <span class="text-muted">(alias)</span>    <code>0xf064</code>
+  </description>
+  <description>
+    <icon  title="Copy to use mail-reply"></icon>    fa-mail-reply    <span class="text-muted">(alias)</span>    <code>0xf112</code>
+  </description>
+  <description>
+    <icon  title="Copy to use mail-reply-all"></icon>    fa-mail-reply-all    <span class="text-muted">(alias)</span>    <code>0xf122</code>
+  </description>
+  <description>
+    <icon  title="Copy to use male"></icon>    fa-male    <code>0xf183</code>
+  </description>
+  <description>
+    <icon  title="Copy to use map"></icon>    fa-map    <code>0xf279</code>
+  </description>
+  <description>
+    <icon  title="Copy to use map-marker"></icon>    fa-map-marker    <code>0xf041</code>
+  </description>
+  <description>
+    <icon  title="Copy to use map-o"></icon>    fa-map-o    <code>0xf278</code>
+  </description>
+  <description>
+    <icon  title="Copy to use map-pin"></icon>    fa-map-pin    <code>0xf276</code>
+  </description>
+  <description>
+    <icon  title="Copy to use map-signs"></icon>    fa-map-signs    <code>0xf277</code>
+  </description>
+  <description>
+    <icon  title="Copy to use mars"></icon>    fa-mars    <code>0xf222</code>
+  </description>
+  <description>
+    <icon  title="Copy to use mars-double"></icon>    fa-mars-double    <code>0xf227</code>
+  </description>
+  <description>
+    <icon  title="Copy to use mars-stroke"></icon>    fa-mars-stroke    <code>0xf229</code>
+  </description>
+  <description>
+    <icon  title="Copy to use mars-stroke-h"></icon>    fa-mars-stroke-h    <code>0xf22b</code>
+  </description>
+  <description>
+    <icon  title="Copy to use mars-stroke-v"></icon>    fa-mars-stroke-v    <code>0xf22a</code>
+  </description>
+  <description>
+    <icon  title="Copy to use maxcdn"></icon>    fa-maxcdn    <code>0xf136</code>
+  </description>
+  <description>
+    <icon  title="Copy to use meanpath"></icon>    fa-meanpath    <code>0xf20c</code>
+  </description>
+  <description>
+    <icon  title="Copy to use medium"></icon>    fa-medium    <code>0xf23a</code>
+  </description>
+  <description>
+    <icon  title="Copy to use medkit"></icon>    fa-medkit    <code>0xf0fa</code>
+  </description>
+  <description>
+    <icon  title="Copy to use meetup"></icon>    fa-meetup    <code>0xf2e0</code>
+  </description>
+  <description>
+    <icon  title="Copy to use meh-o"></icon>    fa-meh-o    <code>0xf11a</code>
+  </description>
+  <description>
+    <icon  title="Copy to use mercury"></icon>    fa-mercury    <code>0xf223</code>
+  </description>
+  <description>
+    <icon  title="Copy to use microchip"></icon>    fa-microchip    <code>0xf2db</code>
+  </description>
+  <description>
+    <icon  title="Copy to use microphone"></icon>    fa-microphone    <code>0xf130</code>
+  </description>
+  <description>
+    <icon  title="Copy to use microphone-slash"></icon>    fa-microphone-slash    <code>0xf131</code>
+  </description>
+  <description>
+    <icon  title="Copy to use minus"></icon>    fa-minus    <code>0xf068</code>
+  </description>
+  <description>
+    <icon  title="Copy to use minus-circle"></icon>    fa-minus-circle    <code>0xf056</code>
+  </description>
+  <description>
+    <icon  title="Copy to use minus-square"></icon>    fa-minus-square    <code>0xf146</code>
+  </description>
+  <description>
+    <icon  title="Copy to use minus-square-o"></icon>    fa-minus-square-o    <code>0xf147</code>
+  </description>
+  <description>
+    <icon  title="Copy to use mixcloud"></icon>    fa-mixcloud    <code>0xf289</code>
+  </description>
+  <description>
+    <icon  title="Copy to use mobile"></icon>    fa-mobile    <code>0xf10b</code>
+  </description>
+  <description>
+    <icon  title="Copy to use mobile-phone"></icon>    fa-mobile-phone    <span class="text-muted">(alias)</span>    <code>0xf10b</code>
+  </description>
+  <description>
+    <icon  title="Copy to use modx"></icon>    fa-modx    <code>0xf285</code>
+  </description>
+  <description>
+    <icon  title="Copy to use money"></icon>    fa-money    <code>0xf0d6</code>
+  </description>
+  <description>
+    <icon  title="Copy to use moon-o"></icon>    fa-moon-o    <code>0xf186</code>
+  </description>
+  <description>
+    <icon  title="Copy to use mortar-board"></icon>    fa-mortar-board    <span class="text-muted">(alias)</span>    <code>0xf19d</code>
+  </description>
+  <description>
+    <icon  title="Copy to use motorcycle"></icon>    fa-motorcycle    <code>0xf21c</code>
+  </description>
+  <description>
+    <icon  title="Copy to use mouse-pointer"></icon>    fa-mouse-pointer    <code>0xf245</code>
+  </description>
+  <description>
+    <icon  title="Copy to use music"></icon>    fa-music    <code>0xf001</code>
+  </description>
+  <description>
+    <icon  title="Copy to use navicon"></icon>    fa-navicon    <span class="text-muted">(alias)</span>    <code>0xf0c9</code>
+  </description>
+  <description>
+    <icon  title="Copy to use neuter"></icon>    fa-neuter    <code>0xf22c</code>
+  </description>
+  <description>
+    <icon  title="Copy to use newspaper-o"></icon>    fa-newspaper-o    <code>0xf1ea</code>
+  </description>
+  <description>
+    <icon  title="Copy to use object-group"></icon>    fa-object-group    <code>0xf247</code>
+  </description>
+  <description>
+    <icon  title="Copy to use object-ungroup"></icon>    fa-object-ungroup    <code>0xf248</code>
+  </description>
+  <description>
+    <icon  title="Copy to use odnoklassniki"></icon>    fa-odnoklassniki    <code>0xf263</code>
+  </description>
+  <description>
+    <icon  title="Copy to use odnoklassniki-square"></icon>    fa-odnoklassniki-square    <code>0xf264</code>
+  </description>
+  <description>
+    <icon  title="Copy to use opencart"></icon>    fa-opencart    <code>0xf23d</code>
+  </description>
+  <description>
+    <icon  title="Copy to use openid"></icon>    fa-openid    <code>0xf19b</code>
+  </description>
+  <description>
+    <icon  title="Copy to use opera"></icon>    fa-opera    <code>0xf26a</code>
+  </description>
+  <description>
+    <icon  title="Copy to use optin-monster"></icon>    fa-optin-monster    <code>0xf23c</code>
+  </description>
+  <description>
+    <icon  title="Copy to use outdent"></icon>    fa-outdent    <code>0xf03b</code>
+  </description>
+  <description>
+    <icon  title="Copy to use pagelines"></icon>    fa-pagelines    <code>0xf18c</code>
+  </description>
+  <description>
+    <icon  title="Copy to use paint-brush"></icon>    fa-paint-brush    <code>0xf1fc</code>
+  </description>
+  <description>
+    <icon  title="Copy to use paper-plane"></icon>    fa-paper-plane    <code>0xf1d8</code>
+  </description>
+  <description>
+    <icon  title="Copy to use paper-plane-o"></icon>    fa-paper-plane-o    <code>0xf1d9</code>
+  </description>
+  <description>
+    <icon  title="Copy to use paperclip"></icon>    fa-paperclip    <code>0xf0c6</code>
+  </description>
+  <description>
+    <icon  title="Copy to use paragraph"></icon>    fa-paragraph    <code>0xf1dd</code>
+  </description>
+  <description>
+    <icon  title="Copy to use paste"></icon>    fa-paste    <span class="text-muted">(alias)</span>    <code>0xf0ea</code>
+  </description>
+  <description>
+    <icon  title="Copy to use pause"></icon>    fa-pause    <code>0xf04c</code>
+  </description>
+  <description>
+    <icon  title="Copy to use pause-circle"></icon>    fa-pause-circle    <code>0xf28b</code>
+  </description>
+  <description>
+    <icon  title="Copy to use pause-circle-o"></icon>    fa-pause-circle-o    <code>0xf28c</code>
+  </description>
+  <description>
+    <icon  title="Copy to use paw"></icon>    fa-paw    <code>0xf1b0</code>
+  </description>
+  <description>
+    <icon  title="Copy to use paypal"></icon>    fa-paypal    <code>0xf1ed</code>
+  </description>
+  <description>
+    <icon  title="Copy to use pencil"></icon>    fa-pencil    <code>0xf040</code>
+  </description>
+  <description>
+    <icon  title="Copy to use pencil-square"></icon>    fa-pencil-square    <code>0xf14b</code>
+  </description>
+  <description>
+    <icon  title="Copy to use pencil-square-o"></icon>    fa-pencil-square-o    <code>0xf044</code>
+  </description>
+  <description>
+    <icon  title="Copy to use percent"></icon>    fa-percent    <code>0xf295</code>
+  </description>
+  <description>
+    <icon  title="Copy to use phone"></icon>    fa-phone    <code>0xf095</code>
+  </description>
+  <description>
+    <icon  title="Copy to use phone-square"></icon>    fa-phone-square    <code>0xf098</code>
+  </description>
+  <description>
+    <icon  title="Copy to use photo"></icon>    fa-photo    <span class="text-muted">(alias)</span>    <code>0xf03e</code>
+  </description>
+  <description>
+    <icon  title="Copy to use picture-o"></icon>    fa-picture-o    <code>0xf03e</code>
+  </description>
+  <description>
+    <icon  title="Copy to use pie-chart"></icon>    fa-pie-chart    <code>0xf200</code>
+  </description>
+  <description>
+    <icon  title="Copy to use pied-piper"></icon>    fa-pied-piper    <code>0xf2ae</code>
+  </description>
+  <description>
+    <icon  title="Copy to use pied-piper-alt"></icon>    fa-pied-piper-alt    <code>0xf1a8</code>
+  </description>
+  <description>
+    <icon  title="Copy to use pied-piper-pp"></icon>    fa-pied-piper-pp    <code>0xf1a7</code>
+  </description>
+  <description>
+    <icon  title="Copy to use pinterest"></icon>    fa-pinterest    <code>0xf0d2</code>
+  </description>
+  <description>
+    <icon  title="Copy to use pinterest-p"></icon>    fa-pinterest-p    <code>0xf231</code>
+  </description>
+  <description>
+    <icon  title="Copy to use pinterest-square"></icon>    fa-pinterest-square    <code>0xf0d3</code>
+  </description>
+  <description>
+    <icon  title="Copy to use plane"></icon>    fa-plane    <code>0xf072</code>
+  </description>
+  <description>
+    <icon  title="Copy to use play"></icon>    fa-play    <code>0xf04b</code>
+  </description>
+  <description>
+    <icon  title="Copy to use play-circle"></icon>    fa-play-circle    <code>0xf144</code>
+  </description>
+  <description>
+    <icon  title="Copy to use play-circle-o"></icon>    fa-play-circle-o    <code>0xf01d</code>
+  </description>
+  <description>
+    <icon  title="Copy to use plug"></icon>    fa-plug    <code>0xf1e6</code>
+  </description>
+  <description>
+    <icon  title="Copy to use plus"></icon>    fa-plus    <code>0xf067</code>
+  </description>
+  <description>
+    <icon  title="Copy to use plus-circle"></icon>    fa-plus-circle    <code>0xf055</code>
+  </description>
+  <description>
+    <icon  title="Copy to use plus-square"></icon>    fa-plus-square    <code>0xf0fe</code>
+  </description>
+  <description>
+    <icon  title="Copy to use plus-square-o"></icon>    fa-plus-square-o    <code>0xf196</code>
+  </description>
+  <description>
+    <icon  title="Copy to use podcast"></icon>    fa-podcast    <code>0xf2ce</code>
+  </description>
+  <description>
+    <icon  title="Copy to use power-off"></icon>    fa-power-off    <code>0xf011</code>
+  </description>
+  <description>
+    <icon  title="Copy to use print"></icon>    fa-print    <code>0xf02f</code>
+  </description>
+  <description>
+    <icon  title="Copy to use product-hunt"></icon>    fa-product-hunt    <code>0xf288</code>
+  </description>
+  <description>
+    <icon  title="Copy to use puzzle-piece"></icon>    fa-puzzle-piece    <code>0xf12e</code>
+  </description>
+  <description>
+    <icon  title="Copy to use qq"></icon>    fa-qq    <code>0xf1d6</code>
+  </description>
+  <description>
+    <icon  title="Copy to use qrcode"></icon>    fa-qrcode    <code>0xf029</code>
+  </description>
+  <description>
+    <icon  title="Copy to use question"></icon>    fa-question    <code>0xf128</code>
+  </description>
+  <description>
+    <icon  title="Copy to use question-circle"></icon>    fa-question-circle    <code>0xf059</code>
+  </description>
+  <description>
+    <icon  title="Copy to use question-circle-o"></icon>    fa-question-circle-o    <code>0xf29c</code>
+  </description>
+  <description>
+    <icon  title="Copy to use quora"></icon>    fa-quora    <code>0xf2c4</code>
+  </description>
+  <description>
+    <icon  title="Copy to use quote-left"></icon>    fa-quote-left    <code>0xf10d</code>
+  </description>
+  <description>
+    <icon  title="Copy to use quote-right"></icon>    fa-quote-right    <code>0xf10e</code>
+  </description>
+  <description>
+    <icon  title="Copy to use ra"></icon>    fa-ra    <span class="text-muted">(alias)</span>    <code>0xf1d0</code>
+  </description>
+  <description>
+    <icon  title="Copy to use random"></icon>    fa-random    <code>0xf074</code>
+  </description>
+  <description>
+    <icon  title="Copy to use ravelry"></icon>    fa-ravelry    <code>0xf2d9</code>
+  </description>
+  <description>
+    <icon  title="Copy to use rebel"></icon>    fa-rebel    <code>0xf1d0</code>
+  </description>
+  <description>
+    <icon  title="Copy to use recycle"></icon>    fa-recycle    <code>0xf1b8</code>
+  </description>
+  <description>
+    <icon  title="Copy to use reddit"></icon>    fa-reddit    <code>0xf1a1</code>
+  </description>
+  <description>
+    <icon  title="Copy to use reddit-alien"></icon>    fa-reddit-alien    <code>0xf281</code>
+  </description>
+  <description>
+    <icon  title="Copy to use reddit-square"></icon>    fa-reddit-square    <code>0xf1a2</code>
+  </description>
+  <description>
+    <icon  title="Copy to use refresh"></icon>    fa-refresh    <code>0xf021</code>
+  </description>
+  <description>
+    <icon  title="Copy to use registered"></icon>    fa-registered    <code>0xf25d</code>
+  </description>
+  <description>
+    <icon  title="Copy to use remove"></icon>    fa-remove    <span class="text-muted">(alias)</span>    <code>0xf00d</code>
+  </description>
+  <description>
+    <icon  title="Copy to use renren"></icon>    fa-renren    <code>0xf18b</code>
+  </description>
+  <description>
+    <icon  title="Copy to use reorder"></icon>    fa-reorder    <span class="text-muted">(alias)</span>    <code>0xf0c9</code>
+  </description>
+  <description>
+    <icon  title="Copy to use repeat"></icon>    fa-repeat    <code>0xf01e</code>
+  </description>
+  <description>
+    <icon  title="Copy to use reply"></icon>    fa-reply    <code>0xf112</code>
+  </description>
+  <description>
+    <icon  title="Copy to use reply-all"></icon>    fa-reply-all    <code>0xf122</code>
+  </description>
+  <description>
+    <icon  title="Copy to use resistance"></icon>    fa-resistance    <span class="text-muted">(alias)</span>    <code>0xf1d0</code>
+  </description>
+  <description>
+    <icon  title="Copy to use retweet"></icon>    fa-retweet    <code>0xf079</code>
+  </description>
+  <description>
+    <icon  title="Copy to use rmb"></icon>    fa-rmb    <span class="text-muted">(alias)</span>    <code>0xf157</code>
+  </description>
+  <description>
+    <icon  title="Copy to use road"></icon>    fa-road    <code>0xf018</code>
+  </description>
+  <description>
+    <icon  title="Copy to use rocket"></icon>    fa-rocket    <code>0xf135</code>
+  </description>
+  <description>
+    <icon  title="Copy to use rotate-left"></icon>    fa-rotate-left    <span class="text-muted">(alias)</span>    <code>0xf0e2</code>
+  </description>
+  <description>
+    <icon  title="Copy to use rotate-right"></icon>    fa-rotate-right    <span class="text-muted">(alias)</span>    <code>0xf01e</code>
+  </description>
+  <description>
+    <icon  title="Copy to use rouble"></icon>    fa-rouble    <span class="text-muted">(alias)</span>    <code>0xf158</code>
+  </description>
+  <description>
+    <icon  title="Copy to use rss"></icon>    fa-rss    <code>0xf09e</code>
+  </description>
+  <description>
+    <icon  title="Copy to use rss-square"></icon>    fa-rss-square    <code>0xf143</code>
+  </description>
+  <description>
+    <icon  title="Copy to use rub"></icon>    fa-rub    <code>0xf158</code>
+  </description>
+  <description>
+    <icon  title="Copy to use ruble"></icon>    fa-ruble    <span class="text-muted">(alias)</span>    <code>0xf158</code>
+  </description>
+  <description>
+    <icon  title="Copy to use rupee"></icon>    fa-rupee    <span class="text-muted">(alias)</span>    <code>0xf156</code>
+  </description>
+  <description>
+    <icon  title="Copy to use s15"></icon>    fa-s15    <span class="text-muted">(alias)</span>    <code>0xf2cd</code>
+  </description>
+  <description>
+    <icon  title="Copy to use safari"></icon>    fa-safari    <code>0xf267</code>
+  </description>
+  <description>
+    <icon  title="Copy to use save"></icon>    fa-save    <span class="text-muted">(alias)</span>    <code>0xf0c7</code>
+  </description>
+  <description>
+    <icon  title="Copy to use scissors"></icon>    fa-scissors    <code>0xf0c4</code>
+  </description>
+  <description>
+    <icon  title="Copy to use scribd"></icon>    fa-scribd    <code>0xf28a</code>
+  </description>
+  <description>
+    <icon  title="Copy to use search"></icon>    fa-search    <code>0xf002</code>
+  </description>
+  <description>
+    <icon  title="Copy to use search-minus"></icon>    fa-search-minus    <code>0xf010</code>
+  </description>
+  <description>
+    <icon  title="Copy to use search-plus"></icon>    fa-search-plus    <code>0xf00e</code>
+  </description>
+  <description>
+    <icon  title="Copy to use sellsy"></icon>    fa-sellsy    <code>0xf213</code>
+  </description>
+  <description>
+    <icon  title="Copy to use send"></icon>    fa-send    <span class="text-muted">(alias)</span>    <code>0xf1d8</code>
+  </description>
+  <description>
+    <icon  title="Copy to use send-o"></icon>    fa-send-o    <span class="text-muted">(alias)</span>    <code>0xf1d9</code>
+  </description>
+  <description>
+    <icon  title="Copy to use server"></icon>    fa-server    <code>0xf233</code>
+  </description>
+  <description>
+    <icon  title="Copy to use share"></icon>    fa-share    <code>0xf064</code>
+  </description>
+  <description>
+    <icon  title="Copy to use share-alt"></icon>    fa-share-alt    <code>0xf1e0</code>
+  </description>
+  <description>
+    <icon  title="Copy to use share-alt-square"></icon>    fa-share-alt-square    <code>0xf1e1</code>
+  </description>
+  <description>
+    <icon  title="Copy to use share-square"></icon>    fa-share-square    <code>0xf14d</code>
+  </description>
+  <description>
+    <icon  title="Copy to use share-square-o"></icon>    fa-share-square-o    <code>0xf045</code>
+  </description>
+  <description>
+    <icon  title="Copy to use shekel"></icon>    fa-shekel    <span class="text-muted">(alias)</span>    <code>0xf20b</code>
+  </description>
+  <description>
+    <icon  title="Copy to use sheqel"></icon>    fa-sheqel    <span class="text-muted">(alias)</span>    <code>0xf20b</code>
+  </description>
+  <description>
+    <icon  title="Copy to use shield"></icon>    fa-shield    <code>0xf132</code>
+  </description>
+  <description>
+    <icon  title="Copy to use ship"></icon>    fa-ship    <code>0xf21a</code>
+  </description>
+  <description>
+    <icon  title="Copy to use shirtsinbulk"></icon>    fa-shirtsinbulk    <code>0xf214</code>
+  </description>
+  <description>
+    <icon  title="Copy to use shopping-bag"></icon>    fa-shopping-bag    <code>0xf290</code>
+  </description>
+  <description>
+    <icon  title="Copy to use shopping-basket"></icon>    fa-shopping-basket    <code>0xf291</code>
+  </description>
+  <description>
+    <icon  title="Copy to use shopping-cart"></icon>    fa-shopping-cart    <code>0xf07a</code>
+  </description>
+  <description>
+    <icon  title="Copy to use shower"></icon>    fa-shower    <code>0xf2cc</code>
+  </description>
+  <description>
+    <icon  title="Copy to use sign-in"></icon>    fa-sign-in    <code>0xf090</code>
+  </description>
+  <description>
+    <icon  title="Copy to use sign-language"></icon>    fa-sign-language    <code>0xf2a7</code>
+  </description>
+  <description>
+    <icon  title="Copy to use sign-out"></icon>    fa-sign-out    <code>0xf08b</code>
+  </description>
+  <description>
+    <icon  title="Copy to use signal"></icon>    fa-signal    <code>0xf012</code>
+  </description>
+  <description>
+    <icon  title="Copy to use signing"></icon>    fa-signing    <span class="text-muted">(alias)</span>    <code>0xf2a7</code>
+  </description>
+  <description>
+    <icon  title="Copy to use simplybuilt"></icon>    fa-simplybuilt    <code>0xf215</code>
+  </description>
+  <description>
+    <icon  title="Copy to use sitemap"></icon>    fa-sitemap    <code>0xf0e8</code>
+  </description>
+  <description>
+    <icon  title="Copy to use skyatlas"></icon>    fa-skyatlas    <code>0xf216</code>
+  </description>
+  <description>
+    <icon  title="Copy to use skype"></icon>    fa-skype    <code>0xf17e</code>
+  </description>
+  <description>
+    <icon  title="Copy to use slack"></icon>    fa-slack    <code>0xf198</code>
+  </description>
+  <description>
+    <icon  title="Copy to use sliders"></icon>    fa-sliders    <code>0xf1de</code>
+  </description>
+  <description>
+    <icon  title="Copy to use slideshare"></icon>    fa-slideshare    <code>0xf1e7</code>
+  </description>
+  <description>
+    <icon  title="Copy to use smile-o"></icon>    fa-smile-o    <code>0xf118</code>
+  </description>
+  <description>
+    <icon  title="Copy to use snapchat"></icon>    fa-snapchat    <code>0xf2ab</code>
+  </description>
+  <description>
+    <icon  title="Copy to use snapchat-ghost"></icon>    fa-snapchat-ghost    <code>0xf2ac</code>
+  </description>
+  <description>
+    <icon  title="Copy to use snapchat-square"></icon>    fa-snapchat-square    <code>0xf2ad</code>
+  </description>
+  <description>
+    <icon  title="Copy to use snowflake-o"></icon>    fa-snowflake-o    <code>0xf2dc</code>
+  </description>
+  <description>
+    <icon  title="Copy to use soccer-ball-o"></icon>    fa-soccer-ball-o    <span class="text-muted">(alias)</span>    <code>0xf1e3</code>
+  </description>
+  <description>
+    <icon  title="Copy to use sort"></icon>    fa-sort    <code>0xf0dc</code>
+  </description>
+  <description>
+    <icon  title="Copy to use sort-alpha-asc"></icon>    fa-sort-alpha-asc    <code>0xf15d</code>
+  </description>
+  <description>
+    <icon  title="Copy to use sort-alpha-desc"></icon>    fa-sort-alpha-desc    <code>0xf15e</code>
+  </description>
+  <description>
+    <icon  title="Copy to use sort-amount-asc"></icon>    fa-sort-amount-asc    <code>0xf160</code>
+  </description>
+  <description>
+    <icon  title="Copy to use sort-amount-desc"></icon>    fa-sort-amount-desc    <code>0xf161</code>
+  </description>
+  <description>
+    <icon  title="Copy to use sort-asc"></icon>    fa-sort-asc    <code>0xf0de</code>
+  </description>
+  <description>
+    <icon  title="Copy to use sort-desc"></icon>    fa-sort-desc    <code>0xf0dd</code>
+  </description>
+  <description>
+    <icon  title="Copy to use sort-down"></icon>    fa-sort-down    <span class="text-muted">(alias)</span>    <code>0xf0dd</code>
+  </description>
+  <description>
+    <icon  title="Copy to use sort-numeric-asc"></icon>    fa-sort-numeric-asc    <code>0xf162</code>
+  </description>
+  <description>
+    <icon  title="Copy to use sort-numeric-desc"></icon>    fa-sort-numeric-desc    <code>0xf163</code>
+  </description>
+  <description>
+    <icon  title="Copy to use sort-up"></icon>    fa-sort-up    <span class="text-muted">(alias)</span>    <code>0xf0de</code>
+  </description>
+  <description>
+    <icon  title="Copy to use soundcloud"></icon>    fa-soundcloud    <code>0xf1be</code>
+  </description>
+  <description>
+    <icon  title="Copy to use space-shuttle"></icon>    fa-space-shuttle    <code>0xf197</code>
+  </description>
+  <description>
+    <icon  title="Copy to use spinner"></icon>    fa-spinner    <code>0xf110</code>
+  </description>
+  <description>
+    <icon  title="Copy to use spoon"></icon>    fa-spoon    <code>0xf1b1</code>
+  </description>
+  <description>
+    <icon  title="Copy to use spotify"></icon>    fa-spotify    <code>0xf1bc</code>
+  </description>
+  <description>
+    <icon  title="Copy to use square"></icon>    fa-square    <code>0xf0c8</code>
+  </description>
+  <description>
+    <icon  title="Copy to use square-o"></icon>    fa-square-o    <code>0xf096</code>
+  </description>
+  <description>
+    <icon  title="Copy to use stack-exchange"></icon>    fa-stack-exchange    <code>0xf18d</code>
+  </description>
+  <description>
+    <icon  title="Copy to use stack-overflow"></icon>    fa-stack-overflow    <code>0xf16c</code>
+  </description>
+  <description>
+    <icon  title="Copy to use star"></icon>    fa-star    <code>0xf005</code>
+  </description>
+  <description>
+    <icon  title="Copy to use star-half"></icon>    fa-star-half    <code>0xf089</code>
+  </description>
+  <description>
+    <icon  title="Copy to use star-half-empty"></icon>    fa-star-half-empty    <span class="text-muted">(alias)</span>    <code>0xf123</code>
+  </description>
+  <description>
+    <icon  title="Copy to use star-half-full"></icon>    fa-star-half-full    <span class="text-muted">(alias)</span>    <code>0xf123</code>
+  </description>
+  <description>
+    <icon  title="Copy to use star-half-o"></icon>    fa-star-half-o    <code>0xf123</code>
+  </description>
+  <description>
+    <icon  title="Copy to use star-o"></icon>    fa-star-o    <code>0xf006</code>
+  </description>
+  <description>
+    <icon  title="Copy to use steam"></icon>    fa-steam    <code>0xf1b6</code>
+  </description>
+  <description>
+    <icon  title="Copy to use steam-square"></icon>    fa-steam-square    <code>0xf1b7</code>
+  </description>
+  <description>
+    <icon  title="Copy to use step-backward"></icon>    fa-step-backward    <code>0xf048</code>
+  </description>
+  <description>
+    <icon  title="Copy to use step-forward"></icon>    fa-step-forward    <code>0xf051</code>
+  </description>
+  <description>
+    <icon  title="Copy to use stethoscope"></icon>    fa-stethoscope    <code>0xf0f1</code>
+  </description>
+  <description>
+    <icon  title="Copy to use sticky-note"></icon>    fa-sticky-note    <code>0xf249</code>
+  </description>
+  <description>
+    <icon  title="Copy to use sticky-note-o"></icon>    fa-sticky-note-o    <code>0xf24a</code>
+  </description>
+  <description>
+    <icon  title="Copy to use stop"></icon>    fa-stop    <code>0xf04d</code>
+  </description>
+  <description>
+    <icon  title="Copy to use stop-circle"></icon>    fa-stop-circle    <code>0xf28d</code>
+  </description>
+  <description>
+    <icon  title="Copy to use stop-circle-o"></icon>    fa-stop-circle-o    <code>0xf28e</code>
+  </description>
+  <description>
+    <icon  title="Copy to use street-view"></icon>    fa-street-view    <code>0xf21d</code>
+  </description>
+  <description>
+    <icon  title="Copy to use strikethrough"></icon>    fa-strikethrough    <code>0xf0cc</code>
+  </description>
+  <description>
+    <icon  title="Copy to use stumbleupon"></icon>    fa-stumbleupon    <code>0xf1a4</code>
+  </description>
+  <description>
+    <icon  title="Copy to use stumbleupon-circle"></icon>    fa-stumbleupon-circle    <code>0xf1a3</code>
+  </description>
+  <description>
+    <icon  title="Copy to use subscript"></icon>    fa-subscript    <code>0xf12c</code>
+  </description>
+  <description>
+    <icon  title="Copy to use subway"></icon>    fa-subway    <code>0xf239</code>
+  </description>
+  <description>
+    <icon  title="Copy to use suitcase"></icon>    fa-suitcase    <code>0xf0f2</code>
+  </description>
+  <description>
+    <icon  title="Copy to use sun-o"></icon>    fa-sun-o    <code>0xf185</code>
+  </description>
+  <description>
+    <icon  title="Copy to use superpowers"></icon>    fa-superpowers    <code>0xf2dd</code>
+  </description>
+  <description>
+    <icon  title="Copy to use superscript"></icon>    fa-superscript    <code>0xf12b</code>
+  </description>
+  <description>
+    <icon  title="Copy to use support"></icon>    fa-support    <span class="text-muted">(alias)</span>    <code>0xf1cd</code>
+  </description>
+  <description>
+    <icon  title="Copy to use table"></icon>    fa-table    <code>0xf0ce</code>
+  </description>
+  <description>
+    <icon  title="Copy to use tablet"></icon>    fa-tablet    <code>0xf10a</code>
+  </description>
+  <description>
+    <icon  title="Copy to use tachometer"></icon>    fa-tachometer    <code>0xf0e4</code>
+  </description>
+  <description>
+    <icon  title="Copy to use tag"></icon>    fa-tag    <code>0xf02b</code>
+  </description>
+  <description>
+    <icon  title="Copy to use tags"></icon>    fa-tags    <code>0xf02c</code>
+  </description>
+  <description>
+    <icon  title="Copy to use tasks"></icon>    fa-tasks    <code>0xf0ae</code>
+  </description>
+  <description>
+    <icon  title="Copy to use taxi"></icon>    fa-taxi    <code>0xf1ba</code>
+  </description>
+  <description>
+    <icon  title="Copy to use telegram"></icon>    fa-telegram    <code>0xf2c6</code>
+  </description>
+  <description>
+    <icon  title="Copy to use television"></icon>    fa-television    <code>0xf26c</code>
+  </description>
+  <description>
+    <icon  title="Copy to use tencent-weibo"></icon>    fa-tencent-weibo    <code>0xf1d5</code>
+  </description>
+  <description>
+    <icon  title="Copy to use terminal"></icon>    fa-terminal    <code>0xf120</code>
+  </description>
+  <description>
+    <icon  title="Copy to use text-height"></icon>    fa-text-height    <code>0xf034</code>
+  </description>
+  <description>
+    <icon  title="Copy to use text-width"></icon>    fa-text-width    <code>0xf035</code>
+  </description>
+  <description>
+    <icon  title="Copy to use th"></icon>    fa-th    <code>0xf00a</code>
+  </description>
+  <description>
+    <icon  title="Copy to use th-large"></icon>    fa-th-large    <code>0xf009</code>
+  </description>
+  <description>
+    <icon  title="Copy to use th-list"></icon>    fa-th-list    <code>0xf00b</code>
+  </description>
+  <description>
+    <icon  title="Copy to use themeisle"></icon>    fa-themeisle    <code>0xf2b2</code>
+  </description>
+  <description>
+    <icon  title="Copy to use thermometer"></icon>    fa-thermometer    <span class="text-muted">(alias)</span>    <code>0xf2c7</code>
+  </description>
+  <description>
+    <icon  title="Copy to use thermometer-0"></icon>    fa-thermometer-0    <span class="text-muted">(alias)</span>    <code>0xf2cb</code>
+  </description>
+  <description>
+    <icon  title="Copy to use thermometer-1"></icon>    fa-thermometer-1    <span class="text-muted">(alias)</span>    <code>0xf2ca</code>
+  </description>
+  <description>
+    <icon  title="Copy to use thermometer-2"></icon>    fa-thermometer-2    <span class="text-muted">(alias)</span>    <code>0xf2c9</code>
+  </description>
+  <description>
+    <icon  title="Copy to use thermometer-3"></icon>    fa-thermometer-3    <span class="text-muted">(alias)</span>    <code>0xf2c8</code>
+  </description>
+  <description>
+    <icon  title="Copy to use thermometer-4"></icon>    fa-thermometer-4    <span class="text-muted">(alias)</span>    <code>0xf2c7</code>
+  </description>
+  <description>
+    <icon  title="Copy to use thermometer-empty"></icon>    fa-thermometer-empty    <code>0xf2cb</code>
+  </description>
+  <description>
+    <icon  title="Copy to use thermometer-full"></icon>    fa-thermometer-full    <code>0xf2c7</code>
+  </description>
+  <description>
+    <icon  title="Copy to use thermometer-half"></icon>    fa-thermometer-half    <code>0xf2c9</code>
+  </description>
+  <description>
+    <icon  title="Copy to use thermometer-quarter"></icon>    fa-thermometer-quarter    <code>0xf2ca</code>
+  </description>
+  <description>
+    <icon  title="Copy to use thermometer-three-quarters"></icon>    fa-thermometer-three-quarters    <code>0xf2c8</code>
+  </description>
+  <description>
+    <icon  title="Copy to use thumb-tack"></icon>    fa-thumb-tack    <code>0xf08d</code>
+  </description>
+  <description>
+    <icon  title="Copy to use thumbs-down"></icon>    fa-thumbs-down    <code>0xf165</code>
+  </description>
+  <description>
+    <icon  title="Copy to use thumbs-o-down"></icon>    fa-thumbs-o-down    <code>0xf088</code>
+  </description>
+  <description>
+    <icon  title="Copy to use thumbs-o-up"></icon>    fa-thumbs-o-up    <code>0xf087</code>
+  </description>
+  <description>
+    <icon  title="Copy to use thumbs-up"></icon>    fa-thumbs-up    <code>0xf164</code>
+  </description>
+  <description>
+    <icon  title="Copy to use ticket"></icon>    fa-ticket    <code>0xf145</code>
+  </description>
+  <description>
+    <icon  title="Copy to use times"></icon>    fa-times    <code>0xf00d</code>
+  </description>
+  <description>
+    <icon  title="Copy to use times-circle"></icon>    fa-times-circle    <code>0xf057</code>
+  </description>
+  <description>
+    <icon  title="Copy to use times-circle-o"></icon>    fa-times-circle-o    <code>0xf05c</code>
+  </description>
+  <description>
+    <icon  title="Copy to use times-rectangle"></icon>    fa-times-rectangle    <span class="text-muted">(alias)</span>    <code>0xf2d3</code>
+  </description>
+  <description>
+    <icon  title="Copy to use times-rectangle-o"></icon>    fa-times-rectangle-o    <span class="text-muted">(alias)</span>    <code>0xf2d4</code>
+  </description>
+  <description>
+    <icon  title="Copy to use tint"></icon>    fa-tint    <code>0xf043</code>
+  </description>
+  <description>
+    <icon  title="Copy to use toggle-down"></icon>    fa-toggle-down    <span class="text-muted">(alias)</span>    <code>0xf150</code>
+  </description>
+  <description>
+    <icon  title="Copy to use toggle-left"></icon>    fa-toggle-left    <span class="text-muted">(alias)</span>    <code>0xf191</code>
+  </description>
+  <description>
+    <icon  title="Copy to use toggle-off"></icon>    fa-toggle-off    <code>0xf204</code>
+  </description>
+  <description>
+    <icon  title="Copy to use toggle-on"></icon>    fa-toggle-on    <code>0xf205</code>
+  </description>
+  <description>
+    <icon  title="Copy to use toggle-right"></icon>    fa-toggle-right    <span class="text-muted">(alias)</span>    <code>0xf152</code>
+  </description>
+  <description>
+    <icon  title="Copy to use toggle-up"></icon>    fa-toggle-up    <span class="text-muted">(alias)</span>    <code>0xf151</code>
+  </description>
+  <description>
+    <icon  title="Copy to use trademark"></icon>    fa-trademark    <code>0xf25c</code>
+  </description>
+  <description>
+    <icon  title="Copy to use train"></icon>    fa-train    <code>0xf238</code>
+  </description>
+  <description>
+    <icon  title="Copy to use transgender"></icon>    fa-transgender    <code>0xf224</code>
+  </description>
+  <description>
+    <icon  title="Copy to use transgender-alt"></icon>    fa-transgender-alt    <code>0xf225</code>
+  </description>
+  <description>
+    <icon  title="Copy to use trash"></icon>    fa-trash    <code>0xf1f8</code>
+  </description>
+  <description>
+    <icon  title="Copy to use trash-o"></icon>    fa-trash-o    <code>0xf014</code>
+  </description>
+  <description>
+    <icon  title="Copy to use tree"></icon>    fa-tree    <code>0xf1bb</code>
+  </description>
+  <description>
+    <icon  title="Copy to use trello"></icon>    fa-trello    <code>0xf181</code>
+  </description>
+  <description>
+    <icon  title="Copy to use tripadvisor"></icon>    fa-tripadvisor    <code>0xf262</code>
+  </description>
+  <description>
+    <icon  title="Copy to use trophy"></icon>    fa-trophy    <code>0xf091</code>
+  </description>
+  <description>
+    <icon  title="Copy to use truck"></icon>    fa-truck    <code>0xf0d1</code>
+  </description>
+  <description>
+    <icon  title="Copy to use try"></icon>    fa-try    <code>0xf195</code>
+  </description>
+  <description>
+    <icon  title="Copy to use tty"></icon>    fa-tty    <code>0xf1e4</code>
+  </description>
+  <description>
+    <icon  title="Copy to use tumblr"></icon>    fa-tumblr    <code>0xf173</code>
+  </description>
+  <description>
+    <icon  title="Copy to use tumblr-square"></icon>    fa-tumblr-square    <code>0xf174</code>
+  </description>
+  <description>
+    <icon  title="Copy to use turkish-lira"></icon>    fa-turkish-lira    <span class="text-muted">(alias)</span>    <code>0xf195</code>
+  </description>
+  <description>
+    <icon  title="Copy to use tv"></icon>    fa-tv    <span class="text-muted">(alias)</span>    <code>0xf26c</code>
+  </description>
+  <description>
+    <icon  title="Copy to use twitch"></icon>    fa-twitch    <code>0xf1e8</code>
+  </description>
+  <description>
+    <icon  title="Copy to use twitter"></icon>    fa-twitter    <code>0xf099</code>
+  </description>
+  <description>
+    <icon  title="Copy to use twitter-square"></icon>    fa-twitter-square    <code>0xf081</code>
+  </description>
+  <description>
+    <icon  title="Copy to use umbrella"></icon>    fa-umbrella    <code>0xf0e9</code>
+  </description>
+  <description>
+    <icon  title="Copy to use underline"></icon>    fa-underline    <code>0xf0cd</code>
+  </description>
+  <description>
+    <icon  title="Copy to use undo"></icon>    fa-undo    <code>0xf0e2</code>
+  </description>
+  <description>
+    <icon  title="Copy to use universal-access"></icon>    fa-universal-access    <code>0xf29a</code>
+  </description>
+  <description>
+    <icon  title="Copy to use university"></icon>    fa-university    <code>0xf19c</code>
+  </description>
+  <description>
+    <icon  title="Copy to use unlink"></icon>    fa-unlink    <span class="text-muted">(alias)</span>    <code>0xf127</code>
+  </description>
+  <description>
+    <icon  title="Copy to use unlock"></icon>    fa-unlock    <code>0xf09c</code>
+  </description>
+  <description>
+    <icon  title="Copy to use unlock-alt"></icon>    fa-unlock-alt    <code>0xf13e</code>
+  </description>
+  <description>
+    <icon  title="Copy to use unsorted"></icon>    fa-unsorted    <span class="text-muted">(alias)</span>    <code>0xf0dc</code>
+  </description>
+  <description>
+    <icon  title="Copy to use upload"></icon>    fa-upload    <code>0xf093</code>
+  </description>
+  <description>
+    <icon  title="Copy to use usb"></icon>    fa-usb    <code>0xf287</code>
+  </description>
+  <description>
+    <icon  title="Copy to use usd"></icon>    fa-usd    <code>0xf155</code>
+  </description>
+  <description>
+    <icon  title="Copy to use user"></icon>    fa-user    <code>0xf007</code>
+  </description>
+  <description>
+    <icon  title="Copy to use user-circle"></icon>    fa-user-circle    <code>0xf2bd</code>
+  </description>
+  <description>
+    <icon  title="Copy to use user-circle-o"></icon>    fa-user-circle-o    <code>0xf2be</code>
+  </description>
+  <description>
+    <icon  title="Copy to use user-md"></icon>    fa-user-md    <code>0xf0f0</code>
+  </description>
+  <description>
+    <icon  title="Copy to use user-o"></icon>    fa-user-o    <code>0xf2c0</code>
+  </description>
+  <description>
+    <icon  title="Copy to use user-plus"></icon>    fa-user-plus    <code>0xf234</code>
+  </description>
+  <description>
+    <icon  title="Copy to use user-secret"></icon>    fa-user-secret    <code>0xf21b</code>
+  </description>
+  <description>
+    <icon  title="Copy to use user-times"></icon>    fa-user-times    <code>0xf235</code>
+  </description>
+  <description>
+    <icon  title="Copy to use users"></icon>    fa-users    <code>0xf0c0</code>
+  </description>
+  <description>
+    <icon  title="Copy to use vcard"></icon>    fa-vcard    <span class="text-muted">(alias)</span>    <code>0xf2bb</code>
+  </description>
+  <description>
+    <icon  title="Copy to use vcard-o"></icon>    fa-vcard-o    <span class="text-muted">(alias)</span>    <code>0xf2bc</code>
+  </description>
+  <description>
+    <icon  title="Copy to use venus"></icon>    fa-venus    <code>0xf221</code>
+  </description>
+  <description>
+    <icon  title="Copy to use venus-double"></icon>    fa-venus-double    <code>0xf226</code>
+  </description>
+  <description>
+    <icon  title="Copy to use venus-mars"></icon>    fa-venus-mars    <code>0xf228</code>
+  </description>
+  <description>
+    <icon  title="Copy to use viacoin"></icon>    fa-viacoin    <code>0xf237</code>
+  </description>
+  <description>
+    <icon  title="Copy to use viadeo"></icon>    fa-viadeo    <code>0xf2a9</code>
+  </description>
+  <description>
+    <icon  title="Copy to use viadeo-square"></icon>    fa-viadeo-square    <code>0xf2aa</code>
+  </description>
+  <description>
+    <icon  title="Copy to use video-camera"></icon>    fa-video-camera    <code>0xf03d</code>
+  </description>
+  <description>
+    <icon  title="Copy to use vimeo"></icon>    fa-vimeo    <code>0xf27d</code>
+  </description>
+  <description>
+    <icon  title="Copy to use vimeo-square"></icon>    fa-vimeo-square    <code>0xf194</code>
+  </description>
+  <description>
+    <icon  title="Copy to use vine"></icon>    fa-vine    <code>0xf1ca</code>
+  </description>
+  <description>
+    <icon  title="Copy to use vk"></icon>    fa-vk    <code>0xf189</code>
+  </description>
+  <description>
+    <icon  title="Copy to use volume-control-phone"></icon>    fa-volume-control-phone    <code>0xf2a0</code>
+  </description>
+  <description>
+    <icon  title="Copy to use volume-down"></icon>    fa-volume-down    <code>0xf027</code>
+  </description>
+  <description>
+    <icon  title="Copy to use volume-off"></icon>    fa-volume-off    <code>0xf026</code>
+  </description>
+  <description>
+    <icon  title="Copy to use volume-up"></icon>    fa-volume-up    <code>0xf028</code>
+  </description>
+  <description>
+    <icon  title="Copy to use warning"></icon>    fa-warning    <span class="text-muted">(alias)</span>    <code>0xf071</code>
+  </description>
+  <description>
+    <icon  title="Copy to use wechat"></icon>    fa-wechat    <span class="text-muted">(alias)</span>    <code>0xf1d7</code>
+  </description>
+  <description>
+    <icon  title="Copy to use weibo"></icon>    fa-weibo    <code>0xf18a</code>
+  </description>
+  <description>
+    <icon  title="Copy to use weixin"></icon>    fa-weixin    <code>0xf1d7</code>
+  </description>
+  <description>
+    <icon  title="Copy to use whatsapp"></icon>    fa-whatsapp    <code>0xf232</code>
+  </description>
+  <description>
+    <icon  title="Copy to use wheelchair"></icon>    fa-wheelchair    <code>0xf193</code>
+  </description>
+  <description>
+    <icon  title="Copy to use wheelchair-alt"></icon>    fa-wheelchair-alt    <code>0xf29b</code>
+  </description>
+  <description>
+    <icon  title="Copy to use wifi"></icon>    fa-wifi    <code>0xf1eb</code>
+  </description>
+  <description>
+    <icon  title="Copy to use wikipedia-w"></icon>    fa-wikipedia-w    <code>0xf266</code>
+  </description>
+  <description>
+    <icon  title="Copy to use window-close"></icon>    fa-window-close    <code>0xf2d3</code>
+  </description>
+  <description>
+    <icon  title="Copy to use window-close-o"></icon>    fa-window-close-o    <code>0xf2d4</code>
+  </description>
+  <description>
+    <icon  title="Copy to use window-maximize"></icon>    fa-window-maximize    <code>0xf2d0</code>
+  </description>
+  <description>
+    <icon  title="Copy to use window-minimize"></icon>    fa-window-minimize    <code>0xf2d1</code>
+  </description>
+  <description>
+    <icon  title="Copy to use window-restore"></icon>    fa-window-restore    <code>0xf2d2</code>
+  </description>
+  <description>
+    <icon  title="Copy to use windows"></icon>    fa-windows    <code>0xf17a</code>
+  </description>
+  <description>
+    <icon  title="Copy to use won"></icon>    fa-won    <span class="text-muted">(alias)</span>    <code>0xf159</code>
+  </description>
+  <description>
+    <icon  title="Copy to use wordpress"></icon>    fa-wordpress    <code>0xf19a</code>
+  </description>
+  <description>
+    <icon  title="Copy to use wpbeginner"></icon>    fa-wpbeginner    <code>0xf297</code>
+  </description>
+  <description>
+    <icon  title="Copy to use wpexplorer"></icon>    fa-wpexplorer    <code>0xf2de</code>
+  </description>
+  <description>
+    <icon  title="Copy to use wpforms"></icon>    fa-wpforms    <code>0xf298</code>
+  </description>
+  <description>
+    <icon  title="Copy to use wrench"></icon>    fa-wrench    <code>0xf0ad</code>
+  </description>
+  <description>
+    <icon  title="Copy to use xing"></icon>    fa-xing    <code>0xf168</code>
+  </description>
+  <description>
+    <icon  title="Copy to use xing-square"></icon>    fa-xing-square    <code>0xf169</code>
+  </description>
+  <description>
+    <icon  title="Copy to use y-combinator"></icon>    fa-y-combinator    <code>0xf23b</code>
+  </description>
+  <description>
+    <icon  title="Copy to use y-combinator-square"></icon>    fa-y-combinator-square    <span class="text-muted">(alias)</span>    <code>0xf1d4</code>
+  </description>
+  <description>
+    <icon  title="Copy to use yahoo"></icon>    fa-yahoo    <code>0xf19e</code>
+  </description>
+  <description>
+    <icon  title="Copy to use yc"></icon>    fa-yc    <span class="text-muted">(alias)</span>    <code>0xf23b</code>
+  </description>
+  <description>
+    <icon  title="Copy to use yc-square"></icon>    fa-yc-square    <span class="text-muted">(alias)</span>    <code>0xf1d4</code>
+  </description>
+  <description>
+    <icon  title="Copy to use yelp"></icon>    fa-yelp    <code>0xf1e9</code>
+  </description>
+  <description>
+    <icon  title="Copy to use yen"></icon>    fa-yen    <span class="text-muted">(alias)</span>    <code>0xf157</code>
+  </description>
+  <description>
+    <icon  title="Copy to use yoast"></icon>    fa-yoast    <code>0xf2b1</code>
+  </description>
+  <description>
+    <icon  title="Copy to use youtube"></icon>    fa-youtube    <code>0xf167</code>
+  </description>
+  <description>
+    <icon  title="Copy to use youtube-play"></icon>    fa-youtube-play    <code>0xf16a</code>
+  </description>
+  <description>
+    <icon  title="Copy to use youtube-square"></icon>    fa-youtube-square    <code>0xf166</code>
+  </description>
+</doc>
