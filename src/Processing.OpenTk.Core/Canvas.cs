@@ -279,6 +279,9 @@ namespace Processing.OpenTk.Core
 
         private IEnumerable<CharacterRenderResult> RenderText(string text, PVector position)
         {
+            if (text == null)
+                yield break;
+
             var characters = text.Select(c => (c, Font[c, Fill]))
                                  .Select(t => (letter: t.Item1, texture: t.Item2.texture, yshift: t.Item2.yshift));
 

@@ -78,12 +78,18 @@ namespace KoreUI.Controls
             RegisterSetter<Border, int>(nameof(BorderTop), (b, value) => b._container.Coordinates.PositionOffsetY = value);
             RegisterSetter<Border, int>(nameof(BorderBottom), (b, value) => b._container.Coordinates.SizeOffsetY = -b.BorderTop - value);
             RegisterSetter<Border, int>(nameof(BorderLeft), (b, value) => b._container.Coordinates.PositionOffsetX = value);
-            RegisterSetter<Border, int>(nameof(BorderRight), (b, value) => b._container.Coordinates.PositionOffsetY = b._container.Coordinates.SizeOffsetX = -b.BorderLeft - value);
+            RegisterSetter<Border, int>(nameof(BorderRight), (b, value) => b._container.Coordinates.SizeOffsetX = b._container.Coordinates.SizeOffsetX = -b.BorderLeft - value);
         }
 
         public Border() : this(c => { })
+        {            
+        }        
+
+        public Border(Action<Border> setup)
         {
             base.Add(_container);
+            DefaultStyle();
+            setup(this);
         }
 
         protected override void DefaultStyle()
@@ -91,12 +97,6 @@ namespace KoreUI.Controls
             BorderColor = Color4.Black;
             BorderThickness = "1";
             base.DefaultStyle();
-        }
-
-        public Border(Action<Border> setup)
-        {
-            DefaultStyle();
-            setup(this);
         }
 
         public override void Draw(Canvas canvas)

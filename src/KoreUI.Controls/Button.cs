@@ -17,13 +17,13 @@ namespace KoreUI.Controls
 
         public Color4 TextColor { get => _label.TextColor; set => _label.TextColor = value; }
 
-        public string Text { get => Get<string>(); set => Set(value); }
+        public string Text { get => _label.Text; set => _label.Text = value; }
 
         private Label _label = new Label();
 
         public Button() : this(b => { })
         {
-            base.Add(_label);            
+                       
         }
 
         protected override void DefaultStyle()
@@ -39,6 +39,7 @@ namespace KoreUI.Controls
 
         public Button(Action<Button> setup)
         {
+            base.Add(_label);
             DefaultStyle();
             setup(this);
         }

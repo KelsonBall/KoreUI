@@ -36,8 +36,7 @@ namespace KoreUI.Controls
         {
             VerticalAlignment = VerticalAlignment.Center;
             HorizontalAlignment = HorizontalAlignment.Left;                  
-            TextColor = Color4.Black;
-            Text = "";            
+            TextColor = Color4.Black;                    
             Size = ((0, 1), (0, 1));
             base.DefaultStyle();
         }

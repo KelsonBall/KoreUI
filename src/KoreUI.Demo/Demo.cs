@@ -1,5 +1,7 @@
 ﻿using KoreUI.Controls;
 using OpenTK.Graphics;
+using Processing.OpenTk.Core;
+using Processing.OpenTk.Core.Extensions;
 using System;
 
 namespace KoreUI.Demo
@@ -35,13 +37,14 @@ namespace KoreUI.Demo
                         border.Size = ((-20, 0.5), (-20, 1));
                         border.BorderThickness = "2,4,8,16";
                         border.BorderColor = Color4.Black;
-                        border.Background = Color4.Beige;
+                        border.Background = Color4.Beige.WithBrightnessScalar(0.6);
                     })
                     {
                         new Label(label =>
                         {
                             label.Position = ((20, 0), (-15, 0.5));
                             label.Size = ((0, 1), (0, 1));
+                            label.Font = new Font("arial.ttf", 32);
                             label.TextColor = Color4.DarkBlue;
                             label.Text = "Content";
                         })
