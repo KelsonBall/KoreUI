@@ -28,7 +28,7 @@ namespace KoreUI.Controls
             }
             set
             {
-                _attributes[attribute] = value;
+                this.Set(value, attribute);
             }
         }
 
