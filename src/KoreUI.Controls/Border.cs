@@ -1,8 +1,8 @@
 ﻿using OpenTK.Graphics;
+using Processing.OpenTk.Core;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 
 namespace KoreUI.Controls
 {
@@ -23,7 +23,6 @@ namespace KoreUI.Controls
         public int BorderLeft { get => _container.Coordinates.PositionOffsetX; set => _container.Coordinates.PositionOffsetX = value; }
 
         public int BorderRight { get => -_container.Coordinates.SizeOffsetX; set => _container.Coordinates.SizeOffsetX = -BorderLeft - value; }
-
 
         public new Color4 Background { get => _container.Background; set => _container.Background = value; }
 
@@ -81,7 +80,7 @@ namespace KoreUI.Controls
         
         public Border(Action<Border> setup) : this() => setup(this);        
 
-        public override void Draw(Application canvas)
+        public override void Draw(Canvas canvas)
         {
             canvas.WithStyle(() =>
             {

@@ -41,7 +41,7 @@ namespace KoreUI.Controls
 
         public Label(Action<Label> setup) : this() => setup(this);
 
-        public override void Draw(Application canvas)
+        public override void Draw(Canvas canvas)
         {
             canvas.WithStyle(() =>
             {

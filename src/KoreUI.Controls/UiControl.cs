@@ -1,9 +1,9 @@
-﻿using Processing.OpenTk.Core;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Collections;
 using OpenTK.Graphics;
 using Processing.OpenTk.Core.Math;
+using Processing.OpenTk.Core;
 
 namespace KoreUI.Controls
 {
@@ -182,7 +182,7 @@ namespace KoreUI.Controls
 
         internal bool Redraw { get; set; } = true;
 
-        public virtual void Draw(Application canvas)
+        public virtual void Draw(Canvas canvas)
         {
             canvas.WithStyle(() => {
                 canvas.Fill = Background;
@@ -250,7 +250,7 @@ namespace KoreUI.Controls
 
         public UiControl Parent { get; private set; }
 
-        protected void DrawChildren(Application canvas)
+        protected void DrawChildren(Canvas canvas)
         {
             foreach (var child in this)
                 canvas.WithBoundry((child.LocalX, child.LocalY), (child.ActualWidth, child.ActualHeight), () => child.Draw(canvas));

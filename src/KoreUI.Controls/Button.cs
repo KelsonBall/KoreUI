@@ -1,6 +1,7 @@
 ﻿using OpenTK.Graphics;
 using System;
 using Processing.OpenTk.Core.Extensions;
+using Processing.OpenTk.Core;
 
 namespace KoreUI.Controls
 {
@@ -23,11 +24,16 @@ namespace KoreUI.Controls
         public Button()
         {
             base.Add(_label);
+            Background = Color4.LightGray;
+            BackgroundHoverColor = Color4.LightSkyBlue;
+            OutlineColor = Color4.DarkGray;
+            OutlineHoverColor = Color4.Gray;
+            TextColor = Color4.Black;
         }
 
         public Button(Action<Button> setup) : this() => setup(this);        
 
-        public override void Draw(Application canvas)
+        public override void Draw(Canvas canvas)
         {
             if (canvas.Mouse[OpenTK.Input.MouseButton.Left])
             {

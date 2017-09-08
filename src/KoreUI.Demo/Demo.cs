@@ -8,10 +8,12 @@ namespace KoreUI.Demo
     {
         static void Main(string[] args)
         {
-            using (Application app = new Application())
+            using (Application app = new Application(application =>
             {
-                app.Root.Background = Color4.CornflowerBlue;
-                app.Root.Add(new UiControl(control =>
+                application.Background = Color4.CornflowerBlue;
+            })
+            {
+                new UiControl(control =>
                 {
                     control.Position = ((10, 0), (10, 0));
                     control.Size = ((-20, 1), (-20, 1));
@@ -22,12 +24,7 @@ namespace KoreUI.Demo
                     new Button(button =>
                     {
                         button.Position = ((10, 0), (0, 0.3));
-                        button.Size = ((-10, 0.5), (32, 0));
-                        button.Background = Color4.LightGray;
-                        button.BackgroundHoverColor = Color4.LightSkyBlue;
-                        button.OutlineColor = Color4.DarkGray;
-                        button.OutlineHoverColor = Color4.Gray;
-                        button.TextColor = Color4.Black;
+                        button.Size = ((-10, 0.5), (32, 0));                       
                         button.Text = "Click Me";
                         button.Name = "Button";
                         button.MousePressed += Button1Click;
@@ -49,9 +46,10 @@ namespace KoreUI.Demo
                             label.Text = "Content";
                         })
                     }
-                });
-
-                app.Run(60f);
+                }
+            })
+            {
+                app.Show();
             }
         }
 
