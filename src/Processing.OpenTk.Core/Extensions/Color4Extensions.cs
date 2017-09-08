@@ -28,5 +28,7 @@ namespace Processing.OpenTk.Core.Extensions
         public static Color4 WithBlue(this Color4 color, double blue) => new Color4(color.R, color.G, (float)blue, color.A);
 
         public static Color4 WithAlpha(this Color4 color, double alpha) => new Color4(color.R, color.G, color.B, (float)alpha);
+
+        public static Color4 WithBrightnessScalar(this Color4 color, double scalar) => scalar.Then(s => (float)s).Then(s => new Color4(color.R * s, color.G * s, color.B * s, color.A));
     }
 }

@@ -34,18 +34,19 @@ namespace KoreUI.Controls
 
         public (int from, int to)? Selection { get; set; }
 
-        public Label() { }
-
-        public Label(Action<Label> setup)
+        public Label()
         {
-            setup(this);
+            Size = ((0, 1), (0, 1));
         }
+
+        public Label(Action<Label> setup) : this() => setup(this);
 
         public override void Draw(Application canvas)
         {
             canvas.WithStyle(() =>
             {
-
+                canvas.Fill = TextColor;                
+                canvas.Text(Text, (10, 10));
             });
         }
     }
