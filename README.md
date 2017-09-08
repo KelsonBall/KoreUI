@@ -1,4 +1,3 @@
-Graphics
 # Kore UI
 
 A graphics and UI framework for dotnet core, providing a minimal abstraction on OpenTK to allow for cross platform application development.
